@@ -171,7 +171,7 @@
         <!--All Chats View Controller-->
         <scene sceneID="VNs-EF-YAe">
             <objects>
-                <viewController storyboardIdentifier="AllChatsViewController" extendedLayoutIncludesOpaqueBars="YES" id="EOr-kV-8pa" customClass="AllChatsViewController" customModule="Element" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="AllChatsViewController" extendedLayoutIncludesOpaqueBars="YES" id="EOr-kV-8pa" customClass="AllChatsViewController" customModule="Superhero Chat" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="5IA-we-z5u"/>
                         <viewControllerLayoutGuide type="bottom" id="9LE-SN-vqG"/>
@@ -370,7 +370,7 @@
         <!--Placeholder Detail View Controller-->
         <scene sceneID="2wP-Cu-Wca">
             <objects>
-                <viewController storyboardIdentifier="EmptyDetailsViewControllerStoryboardId" id="Cpr-Tz-Az0" customClass="PlaceholderDetailViewController" customModule="Element" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="EmptyDetailsViewControllerStoryboardId" id="Cpr-Tz-Az0" customClass="PlaceholderDetailViewController" customModule="Superhero Chat" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="yS4-RU-AsN"/>
                         <viewControllerLayoutGuide type="bottom" id="VKG-pW-vMU"/>
@@ -486,7 +486,7 @@
         <!--Thread-->
         <scene sceneID="Opl-gU-pwm">
             <objects>
-                <viewController storyboardIdentifier="ThreadViewControllerStoryboardId" title="Room" hidesBottomBarWhenPushed="YES" id="R2h-H9-hdJ" userLabel="Thread" customClass="ThreadViewController" customModule="Element" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="ThreadViewControllerStoryboardId" title="Room" hidesBottomBarWhenPushed="YES" id="R2h-H9-hdJ" userLabel="Thread" customClass="ThreadViewController" customModule="Superhero Chat" customModuleProvider="target" sceneMemberID="viewController">
                     <navigationItem key="navigationItem" id="TFF-nx-BSb">
                         <nil key="title"/>
                         <view key="titleView" contentMode="scaleToFill" id="e4J-vI-jzo" userLabel="Room title view container">
@@ -506,7 +506,7 @@
         <!--Room Invites View Controller-->
         <scene sceneID="ied-3I-huo">
             <objects>
-                <viewController storyboardIdentifier="RoomInvitesViewController" extendedLayoutIncludesOpaqueBars="YES" id="BYq-qZ-orN" customClass="RoomInvitesViewController" customModule="Element" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="RoomInvitesViewController" extendedLayoutIncludesOpaqueBars="YES" id="BYq-qZ-orN" customClass="RoomInvitesViewController" customModule="Superhero Chat" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="NpE-qA-EJG"/>
                         <viewControllerLayoutGuide type="bottom" id="N2q-zt-KdC"/>

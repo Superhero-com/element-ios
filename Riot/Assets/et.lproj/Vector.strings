@@ -873,7 +873,7 @@
 "pin_protection_confirm_pin" = "Korda PIN-koodi";
 "pin_protection_confirm_pin_to_disable" = "PIN-koodi kasutuselt eemaldamiseks korda PIN-koodi";
 "pin_protection_enter_pin" = "Sisesta oma PIN-kood";
-"store_full_description" = "Element on uut tüüpi sõnumi- ja koostöörakendus, mis:\n\n1. Privaatsuse säilitamise nimel jätab kontrolli sinu kätte\n2. Võimaldab sul suhelda kõikide Matrix’i võrgu kasutajatega ning kasutades lõiminguid ka teiste võrkude ja rakenduste kasutajatega (näiteks Slack)\n3. Hoiab sinu info ja suhtluse eemal reklaamimisest, andmekaevandamisest, tagaustest ja „müüritagustest iluaedadest“\n4. Kasutades läbivat krüptimist turvab sinu andmed ning võimaldab teiste kasutajate tuvastamiseks risttunnustamist\n\nErinevalt teistest sõnumi- ja koostöörakendustest põhineb Element vabal tarkvaral ja kasutab hajutatud võrku.\n\nElement võimaldab sinul kasutada nii oma serverit kui teenusepakkuja serverit selliselt, et sinu privaatsus on tagatud ning sa omad ja kontrollid oma andmeid ja sõnumeid. Sa saad ligipääsu avatud võrgule, mis ei ole piiratud vaid teiste Element’i kasutajatega. Lisaks on Element väga turvaline.\n\nKuna Element kasutab avatud standardil põhinevat hajusvõrku Matrix, saab ta seda kõike ka tagada.\n\nElement võimaldab sinul otsustada seda, kus hoitakse sinu vestlusi. Seda rakendust kasutades sad sa valida kolme andmemajutusviisi vahel:\n\n1. Tasuta kasutajakonto avalikus matrix.org serveris\n2. Kasutajakonto sinu enda või sinu organisatsiooni hallatavas serveris\n3. Kasutajakonto mõne tasulise teenusepakkuja serveris (näiteks Element Matrix Services)\n\nMiks peaks Element olema sinu eelistus?\n\nSINA OMISTAD OMA ANDMEID: Sina otsustad, kus sa hoiad oma andmeid ja sõnumeid. Vaid sina omad neid ja kontrollid nende kasutust ning hoiad eemale mõne HIIDSUURFIRMA, mis kasutaks sinu teavet andmekaevanduseka või kolmandatele osapooltele jagamiseks.\n\nAVATUD SUHTLUS JA KOOSTÖÖ: Sõltumata sellest, kas teine osapool kasutab Element’i või muud Matrix’i klienti, saad sa suhelda kõigiga Matrix’i võrgus. Lisaks saad sa suhelda teiste sõnumilahenduste kasutajatega – näiteks Slack, IRC või XMPP.\n\nÜLITURVALINE: Me kasutame tegelikku läbivat krüptimist (vaid vestluse osapooled saavad lugeda sõnumeid) ning teiste kasutajate ja nende seadmete tuvastamist risttunnustamise abil.\n\nTÄISVALIK SUHTLUSVAHENDEID: Sõnumid, hääl- ja videokõned, failide edastamine ekraanijagamine ning terve pinu lõiminguid, roboteid ja vidinaid. Loo jututubasid, asuta kogukondi, suhtle paljude osapooltega ning saavuta oma eesmärgid.\n\nKUS IGANES SA OLED: Kasutades kõikides sinu seadmetes või veebirakendustes täielikult sünkroniseeritud vestluste ajalugu, hoia kätt pulsil, kus iganes sa oled.";
+"store_full_description" = "Superhero Chat on uut tüüpi sõnumi- ja koostöörakendus, mis:\n\n1. Privaatsuse säilitamise nimel jätab kontrolli sinu kätte\n2. Võimaldab sul suhelda kõikide Matrix’i võrgu kasutajatega ning kasutades lõiminguid ka teiste võrkude ja rakenduste kasutajatega (näiteks Slack)\n3. Hoiab sinu info ja suhtluse eemal reklaamimisest, andmekaevandamisest, tagaustest ja „müüritagustest iluaedadest“\n4. Kasutades läbivat krüptimist turvab sinu andmed ning võimaldab teiste kasutajate tuvastamiseks risttunnustamist\n\nErinevalt teistest sõnumi- ja koostöörakendustest põhineb Superhero Chat vabal tarkvaral ja kasutab hajutatud võrku.\n\nSuperhero Chat võimaldab sinul kasutada nii oma serverit kui teenusepakkuja serverit selliselt, et sinu privaatsus on tagatud ning sa omad ja kontrollid oma andmeid ja sõnumeid. Sa saad ligipääsu avatud võrgule, mis ei ole piiratud vaid teiste Superhero Chat’i kasutajatega. Lisaks on Superhero Chat väga turvaline.\n\nKuna Superhero Chat kasutab avatud standardil põhinevat hajusvõrku Matrix, saab ta seda kõike ka tagada.\n\nSuperhero Chat võimaldab sinul otsustada seda, kus hoitakse sinu vestlusi. Seda rakendust kasutades sad sa valida kolme andmemajutusviisi vahel:\n\n1. Tasuta kasutajakonto avalikus matrix.org serveris\n2. Kasutajakonto sinu enda või sinu organisatsiooni hallatavas serveris\n3. Kasutajakonto mõne tasulise teenusepakkuja serveris (näiteks Superhero Chat Matrix Services)\n\nMiks peaks Superhero Chat olema sinu eelistus?\n\nSINA OMISTAD OMA ANDMEID: Sina otsustad, kus sa hoiad oma andmeid ja sõnumeid. Vaid sina omad neid ja kontrollid nende kasutust ning hoiad eemale mõne HIIDSUURFIRMA, mis kasutaks sinu teavet andmekaevanduseka või kolmandatele osapooltele jagamiseks.\n\nAVATUD SUHTLUS JA KOOSTÖÖ: Sõltumata sellest, kas teine osapool kasutab Superhero Chat’i või muud Matrix’i klienti, saad sa suhelda kõigiga Matrix’i võrgus. Lisaks saad sa suhelda teiste sõnumilahenduste kasutajatega – näiteks Slack, IRC või XMPP.\n\nÜLITURVALINE: Me kasutame tegelikku läbivat krüptimist (vaid vestluse osapooled saavad lugeda sõnumeid) ning teiste kasutajate ja nende seadmete tuvastamist risttunnustamise abil.\n\nTÄISVALIK SUHTLUSVAHENDEID: Sõnumid, hääl- ja videokõned, failide edastamine ekraanijagamine ning terve pinu lõiminguid, roboteid ja vidinaid. Loo jututubasid, asuta kogukondi, suhtle paljude osapooltega ning saavuta oma eesmärgid.\n\nKUS IGANES SA OLED: Kasutades kõikides sinu seadmetes või veebirakendustes täielikult sünkroniseeritud vestluste ajalugu, hoia kätt pulsil, kus iganes sa oled.";
 "store_promotional_text" = "Avatud võrgul põhinev privaatsuskeskne vestlus- ja koostöörakendus. Põhineb hajutatud võrgul ja jätab otsustusõiguse sinu kätte. Pole andmekaevandust ega tagauksi ning puudub kolmandate osapoolte ligipääs.";
 "on" = "Sisse lülitatud";
 "off" = "Välja lülitatud";
@@ -1535,7 +1535,7 @@
 "location_sharing_title" = "Asukoht";
 "ok" = "Sobib";
 "settings_enable_room_message_bubbles" = "Jutumullid";
-"onboarding_splash_page_4_message" = "Element sobib ideaalselt kasutamiseks töökeskkonnas. Ta on kasutusel ka mitmetes üliturvalistes organisatsioonides.";
+"onboarding_splash_page_4_message" = "Superhero Chat sobib ideaalselt kasutamiseks töökeskkonnas. Ta on kasutusel ka mitmetes üliturvalistes organisatsioonides.";
 "onboarding_splash_page_4_title_no_pun" = "Sõnumisuhtlus sinu tiimi või kogukonna jaoks.";
 "onboarding_splash_page_3_message" = "Tagatud on andmete läbiv krüptimine ning oma telefoninumbrit ei pea sa jagama. Pole reklaame ega sinu andmete kogumist.";
 "onboarding_splash_page_3_title" = "Turvaline sõnumisuhtlus.";
@@ -2240,8 +2240,8 @@
 "create_room_section_footer_type_public" = "Jututuba saavad leida ja sellega liituda vaid need, kellel on kutse. See puudutab ka neid, kes pole kogukonna liikmed.";
 "version_check_banner_subtitle_deprecated" = "Me oleme lõpetanud selle rakenduse (%@) toe IOS'i versioonis %@. Kui soovid kasutada%@'i kõiki võimalusi, siis palun uuenda oma iOS'i versiooni.";
 "version_check_banner_subtitle_supported" = "Me üsna varsti lõpetame selle rakenduse (%@) toe IOS'i versioonis %@. Kui soovid kasutada %@'i kõiki võimalusi, siis palun uuenda oma iOS'i versiooni.";
-"space_beta_announce_information" = "Kogukonnad on uus viis inimeste ja jututubade sidumiseks. Neid veel ei saa iOS'is kasutada, kuid nad on olemas Element'i veebirakenduses ja töölauarakenduses.";
-"space_feature_unavailable_subtitle" = "Kogukondi ei saa iOS'is kasutada, kuid nad on olemas Element'i veebirakenduses ja töölauarakenduses";
+"space_beta_announce_information" = "Kogukonnad on uus viis inimeste ja jututubade sidumiseks. Neid veel ei saa iOS'is kasutada, kuid nad on olemas Superhero Chat'i veebirakenduses ja töölauarakenduses.";
+"space_feature_unavailable_subtitle" = "Kogukondi ei saa iOS'is kasutada, kuid nad on olemas Superhero Chat'i veebirakenduses ja töölauarakenduses";
 "room_access_settings_screen_upgrade_alert_note" = "Palun arvesta, et uuendusega tehakse jututoast uus variant. Kõik senised sõnumid jäävad sellesse jututuppa arhiveeritud olekus.";
 "room_access_settings_screen_upgrade_alert_message_no_param" = "Kõik hõlmava kogukonna liikmed saavad antud jututuba leida ja sellega liituda - sa ei pea kedagi ükshaaval kutsuma. Neid jututoa seadistusi saad igal hetkel muuta.";
 "room_access_settings_screen_upgrade_alert_message" = "Kõik %@ jututoa liikmed saavad antud jututuba leida ja sellega liituda - sa ei pea kedagi ükshaaval kutsuma. Neid jututoa seadistusi saad igal hetkel muuta.";
@@ -2266,7 +2266,7 @@
 "directory_search_results_more_than" = ">%2$@ kohta leidsin %1$tu tulemust";
 /* The placeholder %1$tu will be replaced with a number and %2$@ with the user's search terms. */
 "directory_search_results" = "%2$@ kohta leidsin %1$tu tulemust";
-"location_sharing_allow_background_location_message" = "Kui sa soovid praegust asukohta jagada reaalajas, siis Element vajab taustal töötades õigusi asukohta tuvastada. Selleks klõpsi Seadistused > Asukoht ning vali Alati";
+"location_sharing_allow_background_location_message" = "Kui sa soovid praegust asukohta jagada reaalajas, siis Superhero Chat vajab taustal töötades õigusi asukohta tuvastada. Selleks klõpsi Seadistused > Asukoht ning vali Alati";
 "location_sharing_allow_background_location_cancel_action" = "Mitte praegu";
 "location_sharing_allow_background_location_validate_action" = "Seadistused";
 "location_sharing_allow_background_location_title" = "Luba ligipääs asukohale";
@@ -2486,7 +2486,7 @@
 "authentication_qr_login_scan_subtitle" = "Joonda QR-kood allpool näidatud ruudu sisse";
 "authentication_qr_login_scan_title" = "Skaneeri QR-koodi";
 "authentication_qr_login_display_step2" = "Vali „Logi võrku QR-koodi abil“";
-"authentication_qr_login_display_step1" = "Ava Element oma teises seadmes";
+"authentication_qr_login_display_step1" = "Ava Superhero Chat oma teises seadmes";
 "authentication_qr_login_display_subtitle" = "Loe QR-koodi seadmega, kus sa oled Matrix'i võrgust välja loginud.";
 "authentication_qr_login_display_title" = "Seo teise seadmega";
 "authentication_qr_login_start_display_qr" = "Näita selles seadmes QR-koodi";
@@ -2494,7 +2494,7 @@
 "authentication_qr_login_start_step4" = "Vali „Näita selles seadmes QR-koodi“";
 "authentication_qr_login_start_step3" = "Vali „Seo seade“";
 "authentication_qr_login_start_step2" = "Vali menüüst Seadistused -> Turvalisus ja privaatsus";
-"authentication_qr_login_start_step1" = "Ava Element mõnes oma muus seadmes";
+"authentication_qr_login_start_step1" = "Ava Superhero Chat mõnes oma muus seadmes";
 "authentication_qr_login_start_subtitle" = "Kasuta selle seadme kaamerat ja logi sisse teises seadmes kuvatud QR-koodi alusel:";
 "authentication_qr_login_start_title" = "Loe QR-koodi";
 "authentication_login_with_qr" = "Logi sisse QR-koodi abil";
@@ -2546,7 +2546,7 @@
 
 // MARK: User sessions management
 
-// Parameter is the application display name (e.g. "Element")
+// Parameter is the application display name (e.g. "Superhero Chat")
 "user_sessions_default_session_display_name" = "%@ iOS";
 "voice_broadcast_playback_loading_error" = "Selle ringhäälingukõne esitamine ei õnnestu.";
 "voice_broadcast_already_in_progress_message" = "Sa juba salvestad ringhäälingukõnet. Uue alustamiseks palun lõpeta eelmine salvestus.";
@@ -2592,7 +2592,7 @@
 "user_session_inactive_session_description" = "Mitteaktiivsed sessioonid on sellised, mida sa pole mõnda aega kasutanud, aga nad saavad jätkuvalt pärida sinu krüptovõtmeid.\n\nSelliste sessioonide eemaldamine parandab jõudlust ja turvalisust ning sul on lihtsam märgata, kui loendisse tekib midagi kahtlast.";
 "user_session_inactive_session_title" = "Mitteaktiivsed sessioonid";
 "user_session_unverified_session_title" = "Verifitseerimata sessioon";
-"user_session_verified_session_description" = "Verifitseeritud sessioonideks loetakse Element'is või mõnes muus Matrix'i rakenduses selliseid sessioone, kus sa kas oled sisestanud oma salafraasi või tuvastanud end mõne teise oma verifitseeritud sessiooni abil.\n\nSee tähendab, et selles sessioonis on ka kõik vajalikud võtmed krüptitud sõnumite lugemiseks ja teistele kasutajatele kinnitamiseks, et sa usaldad seda sessiooni.";
+"user_session_verified_session_description" = "Verifitseeritud sessioonideks loetakse Superhero Chat'is või mõnes muus Matrix'i rakenduses selliseid sessioone, kus sa kas oled sisestanud oma salafraasi või tuvastanud end mõne teise oma verifitseeritud sessiooni abil.\n\nSee tähendab, et selles sessioonis on ka kõik vajalikud võtmed krüptitud sõnumite lugemiseks ja teistele kasutajatele kinnitamiseks, et sa usaldad seda sessiooni.";
 "user_session_verified_session_title" = "Verifitseeritud sessioonid";
 "user_session_got_it" = "Selge lugu";
 "key_verification_alert_body" = "Tagamaks, et su konto on sinu kontrolli all, vaata andmed üle.";
@@ -2672,7 +2672,7 @@
 "key_verification_scan_qr_code_information_other_session" = "Suuna oma seadme kaamera teises seadmes kuvatavale QR-koodile ja verifitseeri oma sessioon";
 "key_verification_scan_qr_code_title" = "Loe QR-koodi";
 "device_verification_self_verify_wait_recover_secrets_additional_help" = "Sul puudub ligipääs olemasolevale %@ sessioonile?";
-"device_verification_self_verify_open_on_other_device_information" = "Oma krüptitud sõnumite ajaloo lugemiseks pead selle seadme verifitseerima.\n\nAva Element või mõni muu ühilduv Matrixi klient on teises seadmes ja järgi juhendit.";
+"device_verification_self_verify_open_on_other_device_information" = "Oma krüptitud sõnumite ajaloo lugemiseks pead selle seadme verifitseerima.\n\nAva Superhero Chat või mõni muu ühilduv Matrixi klient on teises seadmes ja järgi juhendit.";
 "device_verification_self_verify_open_on_other_device_title" = "Ava %@ oma teises seadmes";
 "room_creation_only_one_email_invite" = "E-posti teel saad saata kutseid vaid ükshaaval";
 "launch_loading_delay_warning" = "Selleks võib natuke rohkem aega kuluda.\nTänud ootamast.";

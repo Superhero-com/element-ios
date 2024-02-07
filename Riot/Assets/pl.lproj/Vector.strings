@@ -486,7 +486,7 @@
 "bug_crash_report_title" = "Raport o awarii";
 // String for App Store
 "store_short_description" = "Bezpieczny i zdecentralizowany czat/VoIP";
-"store_full_description" = "Element to nowy rodzaj czatu, komunikatora i aplikacji do współpracy, który:\n\n1. Daje Ci kontrolę nad ochroną prywatności\n2. Umożliwia komunikację z każdym w sieci Matrix, a nawet poza nią, poprzez integrację z aplikacjami, takimi jak Slack\n3. Chroni Ciebie przed reklamami, dataminingiem, i backdoorami\n4. Zabezpiecza Cię poprzez szyfrowanie end-to-end z wykorzystaniem cross-signing w celu weryfikacji sesji\n\nElement całkowicie różni się od innych komunikatorów internetowych i aplikacji umożliwiających współpracę, ponieważ jest zdecentralizowany i otwarto źródłowy.\n\nElement umożliwia postawienie własnego serwera lub wybór istniejącego - dzięki temu masz kontrolę nad prywatnością swoich danych i rozmów.\nDodatkowo system ten umożliwia integrację z innymi komunikatorami, dzięki czemu możesz komunikować się nie tylko z użytkownikami sieci matrix.\n\nElement jest w stanie to wszystko zrobić, ponieważ działa na Matrixie - standardzie otwartej, zdecentralizowanej komunikacji umożliwiającej połączenie serwerów domowych w sieć federacji.\n\nElement daje Ci dużą kontrolę nad danymi, ponieważ to Ty wybierasz swój serwer domowy na którym przechowywane są dane. Może to być istniejący w sieci Matrix serwer lub uruchomiona i skonfigurowana przez Ciebie instancja Matrixa, którą w zależności od upodobań możesz przyłączyć do sieci Matrix lub zintegrować z innymi komunikatorami takimi jak np. Slack.\n\nAplikacja Element umożliwia Ci wybranie rodzaju serwera na różne sposoby:\n\n1. Możesz założyć darmowe konto na publicznym serwerze matrix.org\n2. Możesz samodzielnie hostować swoje konto, uruchamiając serwer Matrix na własnym sprzęcie\n3. Możesz założyć konto na serwerze niestandardowym, po prostu subskrybując platformę hostingową Element Matrix Services\n\nDlaczego wybrać Element?\n\nMASZ KONTROLĘ NAD SWOIMI DANYMI: To Ty decydujesz, gdzie chcesz przechowywać swoje dane i wiadomości. To Ty jesteś ich właścicielem i masz nad nimi kontrole, a nie jakaś WIELKA KORPORACJA który wydobywa Twoje dane i udostępnia osobom trzecim.\n\nOTWARTA KOMUNIKACJA: Możesz rozmawiać z kimkolwiek w sieci Matrix, niezależnie od tego, czy używa Element, czy innej aplikacji Matrix, a nawet jeśli używa innego systemu przesyłania wiadomości, takiego jak Slack, IRC lub XMPP.\n\nBEZPIECZEŃSTWO: Prawdziwe szyfrowanie typu end-to-end (tylko uczestnicy rozmowy mogą odszyfrować wiadomości) i cross-signing w celu weryfikacji urządzeń uczestników konwersacji.\n\nPEŁNA KOMUNIKACJA: Wiadomości, rozmowy głosowe i wideo, udostępnianie plików, udostępnianie ekranu i cała masa integracji, botów i widżetów. Twórz pokoje, społeczności, bądź w kontakcie i załatwiaj sprawy.\n\nGDZIEKOLWIEK JESTEŚ: Pozostań w kontakcie, gdziekolwiek jesteś, dzięki w pełni zsynchronizowanej historii wiadomości na wszystkich urządzeniach oraz w Internecie pod adresem https://element.io/app.";
+"store_full_description" = "Superhero Chat to nowy rodzaj czatu, komunikatora i aplikacji do współpracy, który:\n\n1. Daje Ci kontrolę nad ochroną prywatności\n2. Umożliwia komunikację z każdym w sieci Matrix, a nawet poza nią, poprzez integrację z aplikacjami, takimi jak Slack\n3. Chroni Ciebie przed reklamami, dataminingiem, i backdoorami\n4. Zabezpiecza Cię poprzez szyfrowanie end-to-end z wykorzystaniem cross-signing w celu weryfikacji sesji\n\nSuperhero Chat całkowicie różni się od innych komunikatorów internetowych i aplikacji umożliwiających współpracę, ponieważ jest zdecentralizowany i otwarto źródłowy.\n\nSuperhero Chat umożliwia postawienie własnego serwera lub wybór istniejącego - dzięki temu masz kontrolę nad prywatnością swoich danych i rozmów.\nDodatkowo system ten umożliwia integrację z innymi komunikatorami, dzięki czemu możesz komunikować się nie tylko z użytkownikami sieci matrix.\n\nSuperhero Chat jest w stanie to wszystko zrobić, ponieważ działa na Matrixie - standardzie otwartej, zdecentralizowanej komunikacji umożliwiającej połączenie serwerów domowych w sieć federacji.\n\nSuperhero Chat daje Ci dużą kontrolę nad danymi, ponieważ to Ty wybierasz swój serwer domowy na którym przechowywane są dane. Może to być istniejący w sieci Matrix serwer lub uruchomiona i skonfigurowana przez Ciebie instancja Matrixa, którą w zależności od upodobań możesz przyłączyć do sieci Matrix lub zintegrować z innymi komunikatorami takimi jak np. Slack.\n\nAplikacja Superhero Chat umożliwia Ci wybranie rodzaju serwera na różne sposoby:\n\n1. Możesz założyć darmowe konto na publicznym serwerze matrix.org\n2. Możesz samodzielnie hostować swoje konto, uruchamiając serwer Matrix na własnym sprzęcie\n3. Możesz założyć konto na serwerze niestandardowym, po prostu subskrybując platformę hostingową Superhero Chat Matrix Services\n\nDlaczego wybrać Superhero Chat?\n\nMASZ KONTROLĘ NAD SWOIMI DANYMI: To Ty decydujesz, gdzie chcesz przechowywać swoje dane i wiadomości. To Ty jesteś ich właścicielem i masz nad nimi kontrole, a nie jakaś WIELKA KORPORACJA który wydobywa Twoje dane i udostępnia osobom trzecim.\n\nOTWARTA KOMUNIKACJA: Możesz rozmawiać z kimkolwiek w sieci Matrix, niezależnie od tego, czy używa Superhero Chat, czy innej aplikacji Matrix, a nawet jeśli używa innego systemu przesyłania wiadomości, takiego jak Slack, IRC lub XMPP.\n\nBEZPIECZEŃSTWO: Prawdziwe szyfrowanie typu end-to-end (tylko uczestnicy rozmowy mogą odszyfrować wiadomości) i cross-signing w celu weryfikacji urządzeń uczestników konwersacji.\n\nPEŁNA KOMUNIKACJA: Wiadomości, rozmowy głosowe i wideo, udostępnianie plików, udostępnianie ekranu i cała masa integracji, botów i widżetów. Twórz pokoje, społeczności, bądź w kontakcie i załatwiaj sprawy.\n\nGDZIEKOLWIEK JESTEŚ: Pozostań w kontakcie, gdziekolwiek jesteś, dzięki w pełni zsynchronizowanej historii wiadomości na wszystkich urządzeniach oraz w Internecie pod adresem https://element.io/app.";
 "room_creation_make_public_prompt_msg" = "Jesteś pewien, że chcesz ustawić ten pokój rozmów jako publiczny? Każdy będzie mógł czytać wiadomości i dołączyć do czatu.";
 "directory_search_fail" = "Nie udało się pobrać danych";
 "contacts_address_book_permission_required" = "Aby aplikacja mogła uzyskać dostęp do lokalnych kontaktów wymagane jest przyznanie jej odpowiedniego uprawnienia";
@@ -2111,7 +2111,7 @@
 "location_sharing_map_credits_title" = "© Copyright";
 "location_sharing_allow_background_location_cancel_action" = "Nie teraz";
 "location_sharing_allow_background_location_validate_action" = "Ustawienia";
-"location_sharing_allow_background_location_message" = "Jeśli chcesz udostępnić swoją lokalizację Live, Element potrzebuje dostępu do lokalizacji, gdy aplikacja działa w tle. Aby włączyć dostęp, dotknij Ustawienia > Lokalizacja i wybierz Zawsze";
+"location_sharing_allow_background_location_message" = "Jeśli chcesz udostępnić swoją lokalizację Live, Superhero Chat potrzebuje dostępu do lokalizacji, gdy aplikacja działa w tle. Aby włączyć dostęp, dotknij Ustawienia > Lokalizacja i wybierz Zawsze";
 "location_sharing_allow_background_location_title" = "Zapewnij dostęp";
 "location_sharing_settings_toggle_title" = "Włącz udostępnianie lokalizacji";
 "location_sharing_settings_header" = "Udostępnianie lokalizacji";
@@ -2491,7 +2491,7 @@
 "onboarding_use_case_personal_messaging" = "Przyjaciele i rodzina";
 "onboarding_use_case_message" = "Pomożemy Ci się połączyć";
 "onboarding_use_case_title" = "Z kim będziesz najczęściej rozmawiać?";
-"onboarding_splash_page_4_message" = "Element świetnie sprawdzi się również w miejscu pracy. Cieszy się zaufaniem najbardziej bezpiecznych organizacji na świecie.";
+"onboarding_splash_page_4_message" = "Superhero Chat świetnie sprawdzi się również w miejscu pracy. Cieszy się zaufaniem najbardziej bezpiecznych organizacji na świecie.";
 "onboarding_splash_page_4_title_no_pun" = "Wiadomości dla Twojego zespołu.";
 "onboarding_splash_page_3_message" = "Szyfrowanie end-to-end, brak wymogu podawania numeru telefonu. Brak reklam i dataminingu.";
 "onboarding_splash_page_3_title" = "Bezpieczne przesyłanie wiadomości.";
@@ -2572,7 +2572,7 @@
 // User sessions management
 "user_sessions_settings" = "Zarządzaj sesjami";
 "invite_to" = "Zaproś do %@";
-"authentication_qr_login_start_step1" = "Otwórz Element na innym urządzeniu";
+"authentication_qr_login_start_step1" = "Otwórz Superhero Chat na innym urządzeniu";
 "authentication_qr_login_start_subtitle" = "Użyj aparatu tego urządzenia, aby zeskanować kod QR widoczny na innym urządzeniu:";
 "authentication_qr_login_start_title" = "Zeskanuj kod QR";
 "authentication_login_with_qr" = "Zaloguj się za pomocą kodu QR";
@@ -2649,7 +2649,7 @@
 
 // MARK: User sessions management
 
-// Parameter is the application display name (e.g. "Element")
+// Parameter is the application display name (e.g. "Superhero Chat")
 "user_sessions_default_session_display_name" = "%@ iOS";
 "poll_timeline_loading" = "Wczytywanie...";
 "poll_timeline_reply_ended_poll" = "Zakończył ankietę";
@@ -2771,7 +2771,7 @@
 
 "launch_loading_generic" = "Synchronizowanie Twoich konwersacji";
 "key_verification_scan_qr_code_title" = "Skanuj kod QR";
-"device_verification_self_verify_open_on_other_device_information" = "Musisz zweryfikować tę sesję, aby przeglądać swoją bezpieczną historię rozmów.\n\nOtwórz Element na jednym z twoich innych urządzeń i podążaj za instrukcjami.";
+"device_verification_self_verify_open_on_other_device_information" = "Musisz zweryfikować tę sesję, aby przeglądać swoją bezpieczną historię rozmów.\n\nOtwórz Superhero Chat na jednym z twoich innych urządzeń i podążaj za instrukcjami.";
 "device_verification_self_verify_open_on_other_device_title" = "Otwórz %@ na swoim drugim urządzeniu";
 "key_verification_alert_body" = "Przejrzyj, aby upewnić się, że twoje konto jest bezpieczne.";
 
@@ -2836,7 +2836,7 @@
 "authentication_qr_login_scan_title" = "Skanuj kod QR";
 "authentication_qr_login_display_step2" = "Wybierz 'Zaloguj za pomocą kodu QR'";
 "authentication_qr_login_display_subtitle" = "Zeskanuj kod QR na Twoim urządzeniu, które jest wylogowane.";
-"authentication_qr_login_display_step1" = "Otwórz Element na innym urządzeniu";
+"authentication_qr_login_display_step1" = "Otwórz Superhero Chat na innym urządzeniu";
 "authentication_qr_login_display_title" = "Powiąż urządzenie";
 "authentication_qr_login_start_need_alternative" = "Szukasz innej metody?";
 "authentication_qr_login_start_display_qr" = "Pokaż kod QR na tym urządzeniu";
@@ -2848,7 +2848,7 @@
 "user_session_rename_session_description" = "Inni użytkownicy w wiadomościach bezpośrednich i pokojach, do których dołączyłeś, mogą wyświetlić całą listę Twoich sesji.\n\nOznacza to dla nich pewność, że rzeczywiście rozmawiają z Tobą, ale jednocześnie oznacza, że widzą nazwę sesji, którą tutaj wpiszesz.";
 "user_session_permanently_unverified_session_description" = "Ta sesja nie wspiera szyfrowania, więc nie może zostać zweryfikowana. \n\nNie będziesz w stanie uczestniczyć w pokojach, gdzie szyfrowane jest włączone.\n\nDla najlepszego bezpieczeństwa i prywatności zaleca się korzystania z klientów Matrix, które wspierają szyfrowanie.";
 "user_session_unverified_session_description" = "Sesje niezweryfikowane to sesje, w których zalogowano się za pomocą Twoich danych, lecz nie zostały zweryfikowane inną sesją.\n\nW tym przypadku dokładnie się upewnij, że rozpoznajesz takie sesje, ponieważ mogą ujawnić nieautoryzowane użycie Twojego konta.";
-"user_session_verified_session_description" = "Sesje zweryfikowane są wszędzie, gdzie korzystasz z Element po wprowadzeniu swojego hasła lub zweryfikowaniu swojej tożsamości za pomocą innej sesji zweryfikowanej.\n\nTo oznacza, że posiadasz wszystkie niezbędne klucze wymagane do odblokowania swoich zaszyfrowanych wiadomości i oznajmiasz innym użytkownikom, że ufasz tej sesji.";
+"user_session_verified_session_description" = "Sesje zweryfikowane są wszędzie, gdzie korzystasz z Superhero Chat po wprowadzeniu swojego hasła lub zweryfikowaniu swojej tożsamości za pomocą innej sesji zweryfikowanej.\n\nTo oznacza, że posiadasz wszystkie niezbędne klucze wymagane do odblokowania swoich zaszyfrowanych wiadomości i oznajmiasz innym użytkownikom, że ufasz tej sesji.";
 "space_invite_nav_title" = "Zaproszenie do przestrzeni";
 "user_other_session_unverified_sessions_header_subtitle" = "Dla wzmocnienia bezpiecznych wiadomości, zweryfikuj swoje sesje i wyloguj się ze wszystkich sesji, których nie rozpoznajesz lub nie używasz.";
 "manage_session_redirect" = "Zostaniesz przekierowany do swojego dostawcy uwierzytelniania, aby zakończyć logowanie.";

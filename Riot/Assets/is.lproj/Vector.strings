@@ -2302,7 +2302,7 @@
 "onboarding_congratulations_message" = "%@ aðgangur þinn hefur verið útbúinn";
 "onboarding_use_case_existing_server_message" = "Ætlarðu að ganga til liðs við fyrirliggjandi netþjón?";
 "onboarding_use_case_title" = "Við hverja muntu helst spjalla?";
-"onboarding_splash_page_4_message" = "Element er líka frábært fyrir vinnustaðinn. Heimsins öruggustu samtök treysta því.";
+"onboarding_splash_page_4_message" = "Superhero Chat er líka frábært fyrir vinnustaðinn. Heimsins öruggustu samtök treysta því.";
 "onboarding_splash_page_4_title_no_pun" = "Skilaboð fyrir teymið þitt.";
 "onboarding_splash_page_3_message" = "Enda-í-enda dulritað og ekkert símanúmer nauðsynlegt. Engar auglýsingar eða gagnasöfnun.";
 "onboarding_splash_page_2_message" = "Veldu hvar á að geyma samtölin þín, sem gefur þér stjórnina og algert sjálfstæði. Tengt í gegnum Matrix.";
@@ -2440,7 +2440,7 @@
 
 // MARK: User sessions management
 
-// Parameter is the application display name (e.g. "Element")
+// Parameter is the application display name (e.g. "Superhero Chat")
 "user_sessions_default_session_display_name" = "%@ iOS";
 "location_sharing_live_lab_promotion_activation" = "Virkja deilingu rauntímastaðsetninga";
 "location_sharing_live_timer_incoming" = "Í beinni til %@";

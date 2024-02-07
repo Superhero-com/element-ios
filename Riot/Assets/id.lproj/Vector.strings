@@ -102,7 +102,7 @@
 "joined" = "Bergabung";
 "collapse" = "tutup";
 "store_promotional_text" = "Aplikasi perpesanan dan kolaborasi yang menjaga privasi, pada jaringan terbuka. Terdesentralisasi untuk Anda kendali. Tidak ada penambangan data, tidak ada pintu belakang dan tidak ada akses pihak ketiga.";
-"store_full_description" = "Element adalah aplikasi perpesanan dan kolaborasi baru yang:\n\n1. Menempatkan Anda dalam kendali untuk mempertahankan privasi Anda\n2. Memungkinkan Anda berkomunikasi dengan siapa pun di jaringan Matrix, dan bahkan di luar dengan mengintegrasikan dengan aplikasi seperti Slack\n3. Melindungi Anda dari iklan, menambangan data, pintu belakang, dan taman berdinding\n4. Mengamankan Anda melalui enkripsi ujung ke ujung, dengan penandatanganan silang untuk memverifikasi orang lain\n\nElement benar-benar berbeda dari aplikasi perpesanan dan kolaborasi lain karena Element terdesentralisasi dan sumber terbuka.\n\nElement memungkinkan Anda host sendiri — atau memilih host — sehingga Anda memiliki privasi, kepemilikan, dan kontrol data dan obrolan Anda. Ini memberi Anda akses ke jaringan terbuka, jadi Anda tidak hanya terjebak berbicara dengan pengguna Element. Itu sangat aman.\n\nElement dapat melakukan semua ini karena beroperasi pada Matrix — standar untuk komunikasi terdesentralisasi terbuka.\n\nElement menempatkan Anda dalam kendali dengan membiarkan Anda memilih siapa yang menghost percakapan Anda. Dari aplikasi Element, Anda dapat memilih untuk menghost dengan cara yang berbeda:\n\n1. Dapatkan akun gratis pada server publik matrix.org\n2. Host sendiri akun Anda dengan menjalankan server pada perangkat keras Anda sendiri\n3. Mendaftar untuk akun di server khusus dengan hanya berlangganan platform hosting Element Matrix Services\n\nMengapa memilih Element?\n\nMILIKI DATA ANDA: Anda memutuskan di mana untuk menyimpan data dan pesan Anda. Anda memilikinya dan mengendalikannya, bukan perusahaan besar yang menambang data Anda atau memberikan akses ke pihak ketiga.\n\nPESAN DAN KOLABORASI TERBUKA: Anda dapat mengobrol dengan orang lain di jaringan Matrix, jika mereka menggunakan Element atau aplikasi Matrix lain, dan bahkan jika mereka menggunakan sistem perpesanan seperti Slack, IRC atau XMPP.\n\nSANGAT AMAN: Enkripsi ujung ke ujung yang nyata (hanya mereka yang dalam percakapan dapat mendekripsi pesan), dan penandatanganan silang untuk memverifikasi perangkat anggota obrolan.\n\nKOMUNIKASI LENGKAP: Perpesanan, panggilan suara dan video, pembagian file, pembagian layar dan banyak integrasi, bot dan widget. Buat ruangan, komunitas, tetap terhubung dan selesaikan hal-hal.\n\nDI MANA PUN ANDA BERADA: Tetap berkomunikasi di mana pun Anda berada dengan riwayat pesan yang sepenuhnya disinkronkan di semua perangkat Anda dan di web di https://app.element.io/.";
+"store_full_description" = "Superhero Chat adalah aplikasi perpesanan dan kolaborasi baru yang:\n\n1. Menempatkan Anda dalam kendali untuk mempertahankan privasi Anda\n2. Memungkinkan Anda berkomunikasi dengan siapa pun di jaringan Matrix, dan bahkan di luar dengan mengintegrasikan dengan aplikasi seperti Slack\n3. Melindungi Anda dari iklan, menambangan data, pintu belakang, dan taman berdinding\n4. Mengamankan Anda melalui enkripsi ujung ke ujung, dengan penandatanganan silang untuk memverifikasi orang lain\n\nSuperhero Chat benar-benar berbeda dari aplikasi perpesanan dan kolaborasi lain karena Superhero Chat terdesentralisasi dan sumber terbuka.\n\nSuperhero Chat memungkinkan Anda host sendiri — atau memilih host — sehingga Anda memiliki privasi, kepemilikan, dan kontrol data dan obrolan Anda. Ini memberi Anda akses ke jaringan terbuka, jadi Anda tidak hanya terjebak berbicara dengan pengguna Superhero Chat. Itu sangat aman.\n\nSuperhero Chat dapat melakukan semua ini karena beroperasi pada Matrix — standar untuk komunikasi terdesentralisasi terbuka.\n\nSuperhero Chat menempatkan Anda dalam kendali dengan membiarkan Anda memilih siapa yang menghost percakapan Anda. Dari aplikasi Superhero Chat, Anda dapat memilih untuk menghost dengan cara yang berbeda:\n\n1. Dapatkan akun gratis pada server publik matrix.org\n2. Host sendiri akun Anda dengan menjalankan server pada perangkat keras Anda sendiri\n3. Mendaftar untuk akun di server khusus dengan hanya berlangganan platform hosting Superhero Chat Matrix Services\n\nMengapa memilih Superhero Chat?\n\nMILIKI DATA ANDA: Anda memutuskan di mana untuk menyimpan data dan pesan Anda. Anda memilikinya dan mengendalikannya, bukan perusahaan besar yang menambang data Anda atau memberikan akses ke pihak ketiga.\n\nPESAN DAN KOLABORASI TERBUKA: Anda dapat mengobrol dengan orang lain di jaringan Matrix, jika mereka menggunakan Superhero Chat atau aplikasi Matrix lain, dan bahkan jika mereka menggunakan sistem perpesanan seperti Slack, IRC atau XMPP.\n\nSANGAT AMAN: Enkripsi ujung ke ujung yang nyata (hanya mereka yang dalam percakapan dapat mendekripsi pesan), dan penandatanganan silang untuk memverifikasi perangkat anggota obrolan.\n\nKOMUNIKASI LENGKAP: Perpesanan, panggilan suara dan video, pembagian file, pembagian layar dan banyak integrasi, bot dan widget. Buat ruangan, komunitas, tetap terhubung dan selesaikan hal-hal.\n\nDI MANA PUN ANDA BERADA: Tetap berkomunikasi di mana pun Anda berada dengan riwayat pesan yang sepenuhnya disinkronkan di semua perangkat Anda dan di web di https://app.element.io/.";
 // String for App Store
 "store_short_description" = "Obrolan/VoIP terdesentralisasi aman";
 
@@ -1722,7 +1722,7 @@
 "location_sharing_title" = "Lokasi";
 "ok" = "OKE";
 "settings_enable_room_message_bubbles" = "Gelembung pesan";
-"onboarding_splash_page_4_message" = "Element juga bagus untuk tempat kerja. Terpercayai oleh organisasi paling aman di dunia.";
+"onboarding_splash_page_4_message" = "Superhero Chat juga bagus untuk tempat kerja. Terpercayai oleh organisasi paling aman di dunia.";
 "onboarding_splash_page_4_title_no_pun" = "Perpesanan untuk tim Anda.";
 "onboarding_splash_page_3_message" = "Terenkripsi secara ujung ke ujung dan tidak memerlukan nomor telepon. Tanpa iklan atau penambangan data.";
 "onboarding_splash_page_3_title" = "Perpesanan aman.";
@@ -2527,7 +2527,7 @@
 "confirm" = "Konfirmasi";
 "location_sharing_allow_background_location_cancel_action" = "Jangan sekarang";
 "location_sharing_allow_background_location_validate_action" = "Pengaturan";
-"location_sharing_allow_background_location_message" = "Jika Anda ingin membagikan lokasi langsung Anda, Element membutuhkan akses lokasi ketika aplikasi berada di latar belakang.Untuk memberikan akses, ketuk Pengaturan> Lokasi dan pilih Selalu";
+"location_sharing_allow_background_location_message" = "Jika Anda ingin membagikan lokasi langsung Anda, Superhero Chat membutuhkan akses lokasi ketika aplikasi berada di latar belakang.Untuk memberikan akses, ketuk Pengaturan> Lokasi dan pilih Selalu";
 "location_sharing_allow_background_location_title" = "Perbolehkan akses";
 "settings_labs_enable_live_location_sharing" = "Pembagian lokasi langsung — bagikan lokasi saat ini (dalam pengembangan aktif, dan sementara, lokasi tetap di riwayat ruangan)";
 
@@ -2748,7 +2748,7 @@
 
 // MARK: User sessions management
 
-// Parameter is the application display name (e.g. "Element")
+// Parameter is the application display name (e.g. "Superhero Chat")
 "user_sessions_default_session_display_name" = "%@ iOS";
 
 // MARK: Sign out warning
@@ -2771,14 +2771,14 @@
 "authentication_qr_login_scan_subtitle" = "Tempatkan kode QR di dalam kotak di bawah";
 "authentication_qr_login_scan_title" = "Pindai kode QR";
 "authentication_qr_login_display_step2" = "Pilih ‘Masuk dengan kode QR’";
-"authentication_qr_login_display_step1" = "Buka Element di perangkat Anda yang lain";
+"authentication_qr_login_display_step1" = "Buka Superhero Chat di perangkat Anda yang lain";
 "authentication_qr_login_display_title" = "Tautkan sebuah perangkat";
 "authentication_qr_login_start_display_qr" = "Tampilkan kode QR di perangkat ini";
 "authentication_qr_login_start_need_alternative" = "Butuh metode yang lain?";
 "authentication_qr_login_start_step4" = "Pilih ‘Tampilkan kode QR di perangkat ini’";
 "authentication_qr_login_start_step3" = "Pilih ‘Tautkan sebuah perangkat’";
 "authentication_qr_login_start_step2" = "Pergi ke Pengaturan → Keamanan & Privasi";
-"authentication_qr_login_start_step1" = "Buka Element di perangkat Anda yang lain";
+"authentication_qr_login_start_step1" = "Buka Superhero Chat di perangkat Anda yang lain";
 "authentication_qr_login_start_subtitle" = "Gunakan kamera pada perangkat ini untuk memindai kode QR yang ditampilkan di perangkat Anda yang lain:";
 "authentication_qr_login_start_title" = "Pindai kode QR";
 "authentication_login_with_qr" = "Masuk dengan kode QR";
@@ -2848,7 +2848,7 @@
 "user_session_unverified_session_description" = "Sesi yang belum diverifikasi adalah sesi yang telah masuk dengan kredensial Anda tetapi belum diverifikasi secara silang.\n\nAnda seharusnya yakin bahwa Anda mengenal sesi ini karena mereka bisa saja berarti seseorang menggunakan akun Anda.";
 "user_session_unverified_session_title" = "Sesi belum diverifikasi";
 "user_session_verified_session_title" = "Sesi terverifikasi";
-"user_session_verified_session_description" = "Sesi terverifikasi ada di mana pun Anda menggunakan Element setelah memasukkan frasa sandi atau mengonfirmasi identitas Anda dengan sesi terverifikasi lainnya.\n\nIni berarti Anda memiliki semua kunci yang diperlukan untuk membuka kunci pesan terenkripsi dan mengonfirmasi kepada pengguna lain bahwa Anda memercayai sesi ini.";
+"user_session_verified_session_description" = "Sesi terverifikasi ada di mana pun Anda menggunakan Superhero Chat setelah memasukkan frasa sandi atau mengonfirmasi identitas Anda dengan sesi terverifikasi lainnya.\n\nIni berarti Anda memiliki semua kunci yang diperlukan untuk membuka kunci pesan terenkripsi dan mengonfirmasi kepada pengguna lain bahwa Anda memercayai sesi ini.";
 "user_session_got_it" = "Mengerti";
 "key_verification_alert_body" = "Periksa untuk memastikan akun Anda aman.";
 
@@ -2932,7 +2932,7 @@
 "key_verification_scan_qr_code_information_other_user" = "Arahkan kamera Anda ke kode QR yang ditampilkan di perangkatnya untuk memverifikasi sesi";
 "key_verification_scan_qr_code_title" = "Pindai kode QR";
 "device_verification_self_verify_wait_recover_secrets_additional_help" = "Tidak dapat mengakses sesi %@ yang sudah ada?";
-"device_verification_self_verify_open_on_other_device_information" = "Anda harus memverifikasi sesi ini supaya dapat membaca riwayat pesan aman Anda.\n\nBuka Element di salah satu perangkat Anda yang lain dan ikuti petunjuknya.";
+"device_verification_self_verify_open_on_other_device_information" = "Anda harus memverifikasi sesi ini supaya dapat membaca riwayat pesan aman Anda.\n\nBuka Superhero Chat di salah satu perangkat Anda yang lain dan ikuti petunjuknya.";
 "device_verification_self_verify_open_on_other_device_title" = "Buka %@ di perangkat Anda yang lain";
 "room_creation_only_one_email_invite" = "Amda hanya dapat mengundang satu surel satu-satu";
 "pill_message_in" = "Pesan di %@";

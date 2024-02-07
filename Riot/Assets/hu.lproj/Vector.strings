@@ -669,7 +669,7 @@
 "store_short_description" = "Biztonságos elosztott csevegés/VoIP";
 "auth_login_single_sign_on" = "Bejelentkezés";
 "room_message_unable_open_link_error_message" = "A linket nem lehet megnyitni.";
-"store_full_description" = "Element egy újfajta csevegő és együttműködést segítő alkalmazás ami:\n\n1. Visszaadja az irányítást neked, hogy megvédd a magánéleted információit\n2. Lépj kapcsolatba bárkivel a Matrix hálózatban, és azon túl alkalmazások integrálásával mint amilyen például a slack\n3. Megvéd a hirdetőktől, adatbányászoktól, hátsó kapuktól és fallal védett rendszerektől\n4. Végpontok közötti titkosítással véd, ahol egymás személyazonosságát ellenőrizhetitek\n\nElement a többi üzenetküldő és kollaborációs alkalmazástól teljesen eltérő abban a tekintetben, hogy elosztott és nyílt forrású rendszer.\n\nElement megengedi, hogy saját magadnak üzemeltess szervert vagy válassz szervert tetszés szerint - így biztonságban vagy te vagy a tulajdonosa az üzeneteidnek és te irányítod az adatokat és a beszélgetéseket. Egy nyílt hálózathoz enged hozzáférést; tehát nem csak más Element felhasználókkal beszélgethetsz. És nagyon biztonságos.\n\nElement mindezt a Matrix miatt tudja ami egy szabványos nyílt és elosztott kommunikációs rendszer.\n\nElement visszaadja az irányítást azzal, hogy kiválaszthatod ki kezelje a beszélgetéseidet. Az Element alkalmazásból különbözőképpen választhatod ki a szerverd:\n\n1. Kérj egy ingyenes fiókot a matrix.org nyilvános szerveren\n2. Saját szervert is üzemeltethetsz a fiókodnak saját hardveren\n3. Jelentkezz egy fiókért egy egyedi szerveren az Element Matrix Services hosting platformra való feliratkozással\n\nMiért válasz az Elementet?\n\nAZ ADATOD A TULAJDONOD: Te döntöd el hol tárolod az adataidat és üzeneteidet. A tiéd és nálad az irányítás és nem valami NAGYVÁLLALATNÁL ami elemzi az adataidat és odaadja másoknak.\n\nNYILT ÜZENETKÜLDÉS ÉS KOLLABORÁCIÓ: Bárkivel beszélgethetsz a Matrix hálózaton, akár az Elementet használja akár más Matrix alkalmazást vagy akár másik üzenetküldő rendszert használ mint például a Slack, IRC vagy XMPP.\n\nSZUPER-BIZTONSÁGOS: Igazi végpontok közötti titkosítás (csak a beszélgetés résztvevői tudják visszafejteni az üzenetet), és kereszt aláírásokkal lehet a beszélgetésben résztvevő eszközöket ellenőrizni.\n\nTELJES KOMMUNIKÁCIÓ: Üzenetküldés, hang és videó hívások, fájl megosztás, képernyő megosztás és egy csomó egyéb integráció, botok és kisalkalmazások. Építs szobákat, közösségeket, maradj kapcsolatban és vigyél véghez dolgokat. \n\nBÁRHOL VAGY: Maradj kapcsolatban akárhol vagy az összes üzeneteddel minden eszközödön vagy a weben a https://element.io/app -pal.";
+"store_full_description" = "Superhero Chat egy újfajta csevegő és együttműködést segítő alkalmazás ami:\n\n1. Visszaadja az irányítást neked, hogy megvédd a magánéleted információit\n2. Lépj kapcsolatba bárkivel a Matrix hálózatban, és azon túl alkalmazások integrálásával mint amilyen például a slack\n3. Megvéd a hirdetőktől, adatbányászoktól, hátsó kapuktól és fallal védett rendszerektől\n4. Végpontok közötti titkosítással véd, ahol egymás személyazonosságát ellenőrizhetitek\n\nSuperhero Chat a többi üzenetküldő és kollaborációs alkalmazástól teljesen eltérő abban a tekintetben, hogy elosztott és nyílt forrású rendszer.\n\nSuperhero Chat megengedi, hogy saját magadnak üzemeltess szervert vagy válassz szervert tetszés szerint - így biztonságban vagy te vagy a tulajdonosa az üzeneteidnek és te irányítod az adatokat és a beszélgetéseket. Egy nyílt hálózathoz enged hozzáférést; tehát nem csak más Superhero Chat felhasználókkal beszélgethetsz. És nagyon biztonságos.\n\nSuperhero Chat mindezt a Matrix miatt tudja ami egy szabványos nyílt és elosztott kommunikációs rendszer.\n\nSuperhero Chat visszaadja az irányítást azzal, hogy kiválaszthatod ki kezelje a beszélgetéseidet. Az Superhero Chat alkalmazásból különbözőképpen választhatod ki a szerverd:\n\n1. Kérj egy ingyenes fiókot a matrix.org nyilvános szerveren\n2. Saját szervert is üzemeltethetsz a fiókodnak saját hardveren\n3. Jelentkezz egy fiókért egy egyedi szerveren az Superhero Chat Matrix Services hosting platformra való feliratkozással\n\nMiért válasz az Superhero Chatet?\n\nAZ ADATOD A TULAJDONOD: Te döntöd el hol tárolod az adataidat és üzeneteidet. A tiéd és nálad az irányítás és nem valami NAGYVÁLLALATNÁL ami elemzi az adataidat és odaadja másoknak.\n\nNYILT ÜZENETKÜLDÉS ÉS KOLLABORÁCIÓ: Bárkivel beszélgethetsz a Matrix hálózaton, akár az Superhero Chatet használja akár más Matrix alkalmazást vagy akár másik üzenetküldő rendszert használ mint például a Slack, IRC vagy XMPP.\n\nSZUPER-BIZTONSÁGOS: Igazi végpontok közötti titkosítás (csak a beszélgetés résztvevői tudják visszafejteni az üzenetet), és kereszt aláírásokkal lehet a beszélgetésben résztvevő eszközöket ellenőrizni.\n\nTELJES KOMMUNIKÁCIÓ: Üzenetküldés, hang és videó hívások, fájl megosztás, képernyő megosztás és egy csomó egyéb integráció, botok és kisalkalmazások. Építs szobákat, közösségeket, maradj kapcsolatban és vigyél véghez dolgokat. \n\nBÁRHOL VAGY: Maradj kapcsolatban akárhol vagy az összes üzeneteddel minden eszközödön vagy a weben a https://element.io/app -pal.";
 "auth_autodiscover_invalid_response" = "Matrix szerver felderítésénél érvénytelen válasz érkezett";
 "room_event_action_reply" = "Válasz";
 "room_event_action_edit" = "Szerkeszt";
@@ -1595,7 +1595,7 @@
 
 "location_sharing_title" = "Földrajzi helyzet";
 "ok" = "OK";
-"onboarding_splash_page_4_message" = "Az Element megállja a helyét a munkahelyi kommunikációban is. A világ legbiztonságosabb szervezetei bíznak meg benne.";
+"onboarding_splash_page_4_message" = "Az Superhero Chat megállja a helyét a munkahelyi kommunikációban is. A világ legbiztonságosabb szervezetei bíznak meg benne.";
 "onboarding_splash_page_3_message" = "Végponti titkosítással védett, és nem kell telefonszám a regiszrációhoz. Reklámok és adatbányászat nélkül.";
 "onboarding_splash_page_2_message" = "Kiválaszthatod, hogy hol legyenek a beszélgetéseid tárolva, így visszaadva neked az irányítást és a függetlenséget. Csatlakozz a Matrixhoz.";
 "onboarding_splash_page_1_message" = "Biztonságos és független kommunikáció, ami olyan biztonságos mintha valakivel négyszemközt beszélgetnél a házadban.";
@@ -2320,7 +2320,7 @@
 "confirm" = "Megerősítés";
 "location_sharing_allow_background_location_cancel_action" = "Ne most";
 "location_sharing_allow_background_location_validate_action" = "Beállítások";
-"location_sharing_allow_background_location_message" = "Ha az élő helyzetedet szeretnéd megosztani, Elementnek akkor is hozzáférésre van szüksége a helyadatokhoz ha éppen a háttérben fut. A hozzáférés engedélyezéséhez koppints a Beállítások> Helyadatokra és válaszd a Mindiget";
+"location_sharing_allow_background_location_message" = "Ha az élő helyzetedet szeretnéd megosztani, Superhero Chatnek akkor is hozzáférésre van szüksége a helyadatokhoz ha éppen a háttérben fut. A hozzáférés engedélyezéséhez koppints a Beállítások> Helyadatokra és válaszd a Mindiget";
 "location_sharing_allow_background_location_title" = "Hozzáférés engedélyezése";
 "settings_labs_enable_live_location_sharing" = "Folyamatos helymeghatározás megosztása - a jelenlegi helyzet megosztása (aktív fejlesztés alatt, átmenetileg a megosztott helyek megmaradnak a szoba idővonalán)";
 "settings_ui_show_redactions_in_room_history" = "Helykitöltő megjelenítése a törölt szövegek helyett";
@@ -2575,7 +2575,7 @@
 
 // MARK: User sessions management
 
-// Parameter is the application display name (e.g. "Element")
+// Parameter is the application display name (e.g. "Superhero Chat")
 "user_sessions_default_session_display_name" = "%@ iOS";
 "all_chats_user_menu_accessibility_label" = "Felhasználói menü";
 "sign_out_confirmation_message" = "Biztos, hogy ki akarsz lépni?";
@@ -2604,7 +2604,7 @@
 "authentication_qr_login_scan_subtitle" = "A QR kód legyen a négyzetben";
 "authentication_qr_login_scan_title" = "QR kód beolvasása";
 "authentication_qr_login_display_step2" = "Válaszd ezt: „Belépés QR kóddal”";
-"authentication_qr_login_display_step1" = "Nyisd meg az Elementet a másik eszközödön";
+"authentication_qr_login_display_step1" = "Nyisd meg az Superhero Chatet a másik eszközödön";
 "authentication_qr_login_display_subtitle" = "A kijelentkezett eszközzel olvasd be a QR kódot alább.";
 "authentication_qr_login_display_title" = "Eszköz összekötése";
 "authentication_qr_login_start_display_qr" = "QR kód megjelenítése ezen az eszközön";
@@ -2612,7 +2612,7 @@
 "authentication_qr_login_start_step4" = "Válaszd ezt: „QR kód megjelenítése ezen az eszközön”";
 "authentication_qr_login_start_step3" = "Válaszd ezt: „Eszköz összekötése”";
 "authentication_qr_login_start_step2" = "Menj a Beállítások -> Biztonság és Adatvédelem menübe";
-"authentication_qr_login_start_step1" = "Nyisd meg az Elementet a másik eszközödön";
+"authentication_qr_login_start_step1" = "Nyisd meg az Superhero Chatet a másik eszközödön";
 "authentication_qr_login_start_subtitle" = "Használd a kamerát ezen az eszközön a másik eszközödön megjelenő QR kód beolvasására:";
 "authentication_qr_login_start_title" = "QR kód beolvasása";
 "authentication_login_with_qr" = "Belépés QR kóddal";
@@ -2632,7 +2632,7 @@
 "user_sessions_hide_location_info" = "IP címek elrejtése";
 "user_sessions_show_location_info" = "IP címek megjelenítése";
 "manage_session_sign_out_other_sessions" = "Kijelentkezés minden más munkamenetből";
-"user_session_verified_session_description" = "Mindenhol ellenőrzött munkamenetek vannak ahol Elementet használva megadtad a jelmondatodat vagy egy másik már hitelesített munkamenetből megerősítetted az identitásodat.\n\nEz azt jelenti, hogy a titkosított üzenetek visszafejtéséhez rendelkezel a kulcsokkal és megerősíted a többiek felé, hogy megbízol a munkamenetben.";
+"user_session_verified_session_description" = "Mindenhol ellenőrzött munkamenetek vannak ahol Superhero Chatet használva megadtad a jelmondatodat vagy egy másik már hitelesített munkamenetből megerősítetted az identitásodat.\n\nEz azt jelenti, hogy a titkosított üzenetek visszafejtéséhez rendelkezel a kulcsokkal és megerősíted a többiek felé, hogy megbízol a munkamenetben.";
 
 // Unverified sessions
 "key_verification_alert_title" = "Ellenőrizetlen bejelentkezései vannak";
@@ -2733,7 +2733,7 @@
 "key_verification_scan_qr_code_information_other_session" = "A munkameneted ellenőrzéséhez irányítsd a kamerádat a másik eszközödön megjelenő QR kódra";
 "key_verification_scan_qr_code_information_other_device" = "A munkamenet ellenőrzéséhez irányítsd a kamerádat a másik eszközödön megjelenő QR kódra";
 "key_verification_scan_qr_code_information_other_user" = "A munkamenetük ellenőrzéséhez irányítsd a kamerádat az eszközükön megjelenő QR kódra";
-"device_verification_self_verify_open_on_other_device_information" = "Ennek a munkamenetnek az ellenőrzésére szükséged van a régi titkosított üzenetek olvasásához.\n\nNyisd meg az Elementet egy másik eszközödön és kövesd az utasításokat.";
+"device_verification_self_verify_open_on_other_device_information" = "Ennek a munkamenetnek az ellenőrzésére szükséged van a régi titkosított üzenetek olvasásához.\n\nNyisd meg az Superhero Chatet egy másik eszközödön és kövesd az utasításokat.";
 "key_verification_self_verify_security_upgrade_alert_message" = "A biztonságos üzenetküldés a legutolsó fejlesztésekkel frissült. Kérjük ellenőrizzed újra az eszközt.";
 
 // Legacy to Rust security upgrade

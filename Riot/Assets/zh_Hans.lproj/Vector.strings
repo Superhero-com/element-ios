@@ -522,7 +522,7 @@
 "room_resource_usage_limit_reached_message_contact_3" = " 以提高限制。";
 // String for App Store
 "store_short_description" = "安全、去中心化的聊天/VoIP";
-"store_full_description" = "Element 是一种新型的通讯与协作应用：\n\n1. 使您可以掌控您的隐私\n2. 使您与 Matrix 网络中的任何人交流，甚至可以通过集成功能与如 Slack 之类的其他应用通讯\n3. 保护您免受广告，大数据挖掘和封闭服务的侵害\n4. 通过端到端加密保证安全，通过交叉签名验证其他人\n\nElement 与其他通讯与协作应用完全不同，因为它是去中心化且开源的。\n\nElement 允许您自托管——或者选择托管商——因此，您能拥有数据和会话的隐私权，所有权和控制权。它允许您访问开放网络；因此，您可以与 Element 用户以外的人交流。并且它非常安全。\n\nElement 之所以可以做到这些，是因为它在 Matrix 上运行——开放，去中心化通讯的标准。\n\n通过让您选择由谁来托管您的会话，Element 让您掌控一切。在 Element 应用中，您可以选择不同的托管方式：\n\n1. 在由 Matrix 开发者托管的 matrix.org 公共服务器上获取免费账户，或从志愿者托管的上千个公共服务器中选择\n2. 在您自己的硬件上运行服务器，自托管您的会话\n3. 通过订阅 Element Matrix Services 托管平台，简单地在自定义服务器上注册账户\n\n为什么选择 Element？\n\n掌控您的数据：您来决定存放您的数据和消息的位置。拥有并控制它的是您，而不是挖掘您的数据或与第三方分享的巨型企业。\n\n开放通讯与协作：您可以与 Matrix 网络中的任何人聊天，不论他们使用 Element 还是其他 Matrix 应用，甚至/即使他们在使用不同的通讯系统，例如 Slack、IRC 或 XMPP。\n\n超级安全：支持真正的端到端加密（仅有会话中的人可以解密消息），还有能够验证会话参与方的设备的交叉签名。\n\n完善的通讯方式：消息，语音和视频通话，文件共享，屏幕共享和大量集成功能，机器人和挂件。建立房间与社区，保持联系并完成工作。\n\n随时随地：消息历史可在您的全部设备和 https://app.element.io 网页端之间完全同步，无论您在哪里，都可以保持联系。";
+"store_full_description" = "Superhero Chat 是一种新型的通讯与协作应用：\n\n1. 使您可以掌控您的隐私\n2. 使您与 Matrix 网络中的任何人交流，甚至可以通过集成功能与如 Slack 之类的其他应用通讯\n3. 保护您免受广告，大数据挖掘和封闭服务的侵害\n4. 通过端到端加密保证安全，通过交叉签名验证其他人\n\nSuperhero Chat 与其他通讯与协作应用完全不同，因为它是去中心化且开源的。\n\nSuperhero Chat 允许您自托管——或者选择托管商——因此，您能拥有数据和会话的隐私权，所有权和控制权。它允许您访问开放网络；因此，您可以与 Superhero Chat 用户以外的人交流。并且它非常安全。\n\nSuperhero Chat 之所以可以做到这些，是因为它在 Matrix 上运行——开放，去中心化通讯的标准。\n\n通过让您选择由谁来托管您的会话，Superhero Chat 让您掌控一切。在 Superhero Chat 应用中，您可以选择不同的托管方式：\n\n1. 在由 Matrix 开发者托管的 matrix.org 公共服务器上获取免费账户，或从志愿者托管的上千个公共服务器中选择\n2. 在您自己的硬件上运行服务器，自托管您的会话\n3. 通过订阅 Superhero Chat Matrix Services 托管平台，简单地在自定义服务器上注册账户\n\n为什么选择 Superhero Chat？\n\n掌控您的数据：您来决定存放您的数据和消息的位置。拥有并控制它的是您，而不是挖掘您的数据或与第三方分享的巨型企业。\n\n开放通讯与协作：您可以与 Matrix 网络中的任何人聊天，不论他们使用 Superhero Chat 还是其他 Matrix 应用，甚至/即使他们在使用不同的通讯系统，例如 Slack、IRC 或 XMPP。\n\n超级安全：支持真正的端到端加密（仅有会话中的人可以解密消息），还有能够验证会话参与方的设备的交叉签名。\n\n完善的通讯方式：消息，语音和视频通话，文件共享，屏幕共享和大量集成功能，机器人和挂件。建立房间与社区，保持联系并完成工作。\n\n随时随地：消息历史可在您的全部设备和 https://app.element.io 网页端之间完全同步，无论您在哪里，都可以保持联系。";
 "auth_accept_policies" = "请查看并接受此主页服务器的服务条款：";
 "room_replacement_information" = "这个房间已被替换，不再有效。";
 "settings_flair" = "在允许的地方显示个性徽章";
@@ -2099,7 +2099,7 @@
 "onboarding_use_case_community_messaging" = "社群";
 "onboarding_use_case_work_messaging" = "团队";
 "onboarding_use_case_title" = "你会和谁聊得最多？";
-"onboarding_splash_page_4_message" = "Element也很适合工作场所。受世界最安全的组织的信任。";
+"onboarding_splash_page_4_message" = "Superhero Chat也很适合工作场所。受世界最安全的组织的信任。";
 "onboarding_splash_page_3_message" = "端到端加密且不要求电话号码。无广告或数据挖掘。";
 "onboarding_splash_page_2_message" = "选择在哪里保存你的对话，给你控制和独立。通过Matrix连接。";
 
@@ -2223,7 +2223,7 @@
 "authentication_qr_login_display_title" = "关联设备";
 "authentication_qr_login_start_step3" = "选择“关联设备”";
 "authentication_qr_login_start_step2" = "前往设置->安全与隐私";
-"authentication_qr_login_start_step1" = "打开你的其他设备上的Element";
+"authentication_qr_login_start_step1" = "打开你的其他设备上的Superhero Chat";
 "authentication_qr_login_start_subtitle" = "用此设备的相机扫描显示在你的其他设备上的QR码：";
 "authentication_qr_login_start_title" = "扫描QR码";
 "authentication_choose_password_signout_all_devices" = "登出全部设备";
@@ -2270,7 +2270,7 @@
 "authentication_qr_login_scan_subtitle" = "将QR码放置在下面的方框中";
 "authentication_qr_login_scan_title" = "扫描QR码";
 "authentication_qr_login_display_step2" = "选择“以QR码登入”";
-"authentication_qr_login_display_step1" = "在您的其它设备中打开Element";
+"authentication_qr_login_display_step1" = "在您的其它设备中打开Superhero Chat";
 "onboarding_splash_page_4_title_no_pun" = "为您的团队发送消息。";
 "user_session_learn_more" = "了解更多";
 "manage_session_name_info_link" = "了解更多";
@@ -2338,7 +2338,7 @@
 // MARK: Live location sharing
 
 "location_sharing_live_share_title" = "共享实时位置";
-"location_sharing_allow_background_location_message" = "如果你想要实时共享你的位置，Element需要在后台访问你的位置信息。要允许访问，点击设置>位置，然后选择“总是”";
+"location_sharing_allow_background_location_message" = "如果你想要实时共享你的位置，Superhero Chat需要在后台访问你的位置信息。要允许访问，点击设置>位置，然后选择“总是”";
 "location_sharing_invalid_power_level_message" = "要在此房间中实时共享位置，你需要有对应的权限。";
 "settings_labs_enable_live_location_sharing" = "实时位置共享——共享当前位置（活跃开发中，位置暂时还会留在房间历史记录中）";
 "poll_timeline_decryption_error" = "因为解密错误，有的投票可能没有被算进去";
@@ -2421,7 +2421,7 @@
 "key_verification_self_verify_security_upgrade_alert_title" = "应用已更新";
 "sign_out_confirmation_message" = "您确定要登出吗？";
 "device_verification_self_verify_open_on_other_device_title" = "在您的另一台设备上打开 %@";
-"device_verification_self_verify_open_on_other_device_information" = "您需要先验证此会话才能读取加密信息。\n\n在您的其他设备上打开 Element 并按照说明进行操作。";
+"device_verification_self_verify_open_on_other_device_information" = "您需要先验证此会话才能读取加密信息。\n\n在您的其他设备上打开 Superhero Chat 并按照说明进行操作。";
 "device_verification_self_verify_wait_recover_secrets_additional_help" = "已无法访问 %@ 会话？";
 "network_offline_message" = "您已离线，请检查您的网络链接。";
 "key_verification_alert_body" = "重新检查以确保您的账户安全。";

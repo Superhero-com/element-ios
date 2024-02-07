@@ -18,10 +18,10 @@ window.riotIOS = {};
 
 // Generic JS -> ObjC bridge
 window.riotIOS.sendObjectMessageToObjC = function(parameters) {
-    var iframe = document.createElement('iframe');
+    var iframe = document.createSuperhero Chat('iframe');
     iframe.setAttribute('src', 'js:' + JSON.stringify(parameters));
 
-    document.documentElement.appendChild(iframe);
+    document.documentSuperhero Chat.appendChild(iframe);
     iframe.parentNode.removeChild(iframe);
     iframe = null;
 };

@@ -3,7 +3,7 @@
 "title_favourites" = "Preferiti";
 "title_people" = "Chat dirette";
 "title_rooms" = "Stanze";
-"store_full_description" = "Element è un nuovo tipo di app di messaggistica e collaborazione che:\n\n1. Ti dà il controllo per preservare la tua privacy\n2. Ti permette di comunicare con chiunque nella rete Matrix e anche oltre, integrandosi con app come Slack\n3. Ti protegge da pubblicità, datamining, backdoor ed ecosistemi chiusi\n4. Ti protegge tramite crittografia end-to-end, con la firma incrociata per verificare gli altri\n\nElement è completamente diverso dalle altre app di messaggistica e collaborazione perchè è decentralizzato e open source.\n\nElement può essere auto-ospitato - o puoi scegliere un host - in modo da avere privacy, proprietà e controllo dei tuoi dati e delle conversazioni. Ti dà l'accesso a una rete aperta, perciò non sei limitato a parlare solo con gli altri utenti Element. È anche molto sicuro.\n\nElement può fare tutto questo perchè opera su Matrix - lo standard per le comunicazioni aperte e decentralizzate. \n\nElement ti dà il controllo lasciandoti scegliere chi ospita le tue conversazioni. Dall'app Element, puoi scegliere l'host in diversi modi:\n\n1. Ottieni un account gratuito sul server pubblico matrix.org\n2. Auto-ospita il tuo account gestendo un server su tuo hardware personale\n3. Registra un account su un server personalizzato sottoscrivendoti alla piattaforma di hosting Element Matrix Services\n\nPerché scegliere Element?\n\nPOSSIEDI I TUOI DATI: decidi tu dove tenere i tuoi dati e messaggi. Sei tu che li possiedi e li controlli, non una MEGADITTA che estrae i tuoi dati o ne dà l'accesso a terze parti.\n\nMESSAGGISTICA APERTA E COLLABORAZIONE: puoi parlare con chiunque nella rete Matrix, sia che usino Element o un'altra app Matrix, e addirittura anche se usano un altro sistema di messaggistica come Slack, IRC o XMPP.\n\nSUPER SICURO: vera crittografia end-to-end (solo chi è nella conversazione può decifrare i messaggi) e firma incrociata per verificare i dispositivi dei partecipanti alla conversazione.\n\nCOMUNICAZIONE COMPLETA: messaggi, telefonate e videochiamate, condivisione file, condivisione schermo e un sacco di integrazioni, bot e widget. Crea stanze, comunità, resta in contatto e porta a termine le cose.\n\nOVUNQUE TU SIA: resta in contatto ovunque tu sia con la cronologia dei messaggi totalmente sincronizzata tra i tuoi dispositivi e sul web su https://element.io/app.";
+"store_full_description" = "Superhero Chat è un nuovo tipo di app di messaggistica e collaborazione che:\n\n1. Ti dà il controllo per preservare la tua privacy\n2. Ti permette di comunicare con chiunque nella rete Matrix e anche oltre, integrandosi con app come Slack\n3. Ti protegge da pubblicità, datamining, backdoor ed ecosistemi chiusi\n4. Ti protegge tramite crittografia end-to-end, con la firma incrociata per verificare gli altri\n\nSuperhero Chat è completamente diverso dalle altre app di messaggistica e collaborazione perchè è decentralizzato e open source.\n\nSuperhero Chat può essere auto-ospitato - o puoi scegliere un host - in modo da avere privacy, proprietà e controllo dei tuoi dati e delle conversazioni. Ti dà l'accesso a una rete aperta, perciò non sei limitato a parlare solo con gli altri utenti Superhero Chat. È anche molto sicuro.\n\nSuperhero Chat può fare tutto questo perchè opera su Matrix - lo standard per le comunicazioni aperte e decentralizzate. \n\nSuperhero Chat ti dà il controllo lasciandoti scegliere chi ospita le tue conversazioni. Dall'app Superhero Chat, puoi scegliere l'host in diversi modi:\n\n1. Ottieni un account gratuito sul server pubblico matrix.org\n2. Auto-ospita il tuo account gestendo un server su tuo hardware personale\n3. Registra un account su un server personalizzato sottoscrivendoti alla piattaforma di hosting Superhero Chat Matrix Services\n\nPerché scegliere Superhero Chat?\n\nPOSSIEDI I TUOI DATI: decidi tu dove tenere i tuoi dati e messaggi. Sei tu che li possiedi e li controlli, non una MEGADITTA che estrae i tuoi dati o ne dà l'accesso a terze parti.\n\nMESSAGGISTICA APERTA E COLLABORAZIONE: puoi parlare con chiunque nella rete Matrix, sia che usino Superhero Chat o un'altra app Matrix, e addirittura anche se usano un altro sistema di messaggistica come Slack, IRC o XMPP.\n\nSUPER SICURO: vera crittografia end-to-end (solo chi è nella conversazione può decifrare i messaggi) e firma incrociata per verificare i dispositivi dei partecipanti alla conversazione.\n\nCOMUNICAZIONE COMPLETA: messaggi, telefonate e videochiamate, condivisione file, condivisione schermo e un sacco di integrazioni, bot e widget. Crea stanze, comunità, resta in contatto e porta a termine le cose.\n\nOVUNQUE TU SIA: resta in contatto ovunque tu sia con la cronologia dei messaggi totalmente sincronizzata tra i tuoi dispositivi e sul web su https://element.io/app.";
 "title_groups" = "Comunità";
 "warning" = "Attenzione";
 "next" = "Prossimo";
@@ -1573,7 +1573,7 @@
 "location_sharing_title" = "Posizione";
 "ok" = "OK";
 "settings_enable_room_message_bubbles" = "Messaggi";
-"onboarding_splash_page_4_message" = "Element è ottimo anche per i luoghi di lavoro. È considerato affidabile dalle più sicure organizzazioni del mondo.";
+"onboarding_splash_page_4_message" = "Superhero Chat è ottimo anche per i luoghi di lavoro. È considerato affidabile dalle più sicure organizzazioni del mondo.";
 "onboarding_splash_page_4_title_no_pun" = "Messaggistica per la tua squadra.";
 "onboarding_splash_page_3_message" = "Crittografia end-to-end e nessun numero di telefono richiesto. Niente pubblicità o raccolta di dati.";
 "onboarding_splash_page_3_title" = "Messaggistica sicura.";
@@ -2300,7 +2300,7 @@
 "confirm" = "Conferma";
 "location_sharing_allow_background_location_cancel_action" = "Non ora";
 "location_sharing_allow_background_location_validate_action" = "Impostazioni";
-"location_sharing_allow_background_location_message" = "Se vuoi condividere la posizione in tempo reale, Element deve accedere alla posizione quando l'app è in secondo piano. Per attivarla, tocca Impostazioni > Posizione e seleziona Sempre";
+"location_sharing_allow_background_location_message" = "Se vuoi condividere la posizione in tempo reale, Superhero Chat deve accedere alla posizione quando l'app è in secondo piano. Per attivarla, tocca Impostazioni > Posizione e seleziona Sempre";
 "location_sharing_allow_background_location_title" = "Permetti accesso";
 "settings_labs_enable_live_location_sharing" = "Condivisione posizione in tempo reale - condividi la posizione attuale (in sviluppo attivo e, per ora, le posizioni restano nella cronologia della stanza)";
 "settings_ui_show_redactions_in_room_history" = "Mostra un segnaposto per i messaggi rimossi";
@@ -2521,7 +2521,7 @@
 
 // MARK: User sessions management
 
-// Parameter is the application display name (e.g. "Element")
+// Parameter is the application display name (e.g. "Superhero Chat")
 "user_sessions_default_session_display_name" = "%@ iOS";
 "sign_out_confirmation_message" = "Vuoi davvero disconnetterti?";
 
@@ -2543,7 +2543,7 @@
 "authentication_qr_login_scan_subtitle" = "Posiziona il codice QR nel riquadro sotto";
 "authentication_qr_login_scan_title" = "Scansiona codice QR";
 "authentication_qr_login_display_step2" = "Seleziona ‘Accedi con codice QR’";
-"authentication_qr_login_display_step1" = "Apri Element sull'altro dispositivo";
+"authentication_qr_login_display_step1" = "Apri Superhero Chat sull'altro dispositivo";
 "authentication_qr_login_display_subtitle" = "Scansiona il codice QR sottostante con il dispositivo che è disconnesso.";
 "authentication_qr_login_display_title" = "Collega un dispositivo";
 "authentication_qr_login_start_display_qr" = "Mostra codice QR in questo dispositivo";
@@ -2551,7 +2551,7 @@
 "authentication_qr_login_start_step4" = "Seleziona ‘Mostra codice QR in questo dispositivo’";
 "authentication_qr_login_start_step3" = "Seleziona ‘Collega un dispositivo’";
 "authentication_qr_login_start_step2" = "Vai in Impostazioni -> Sicurezza & Privacy";
-"authentication_qr_login_start_step1" = "Apri Element sull'altro dispositivo";
+"authentication_qr_login_start_step1" = "Apri Superhero Chat sull'altro dispositivo";
 "authentication_qr_login_start_subtitle" = "Usa la fotocamera di questo dispositivo per scansionare il codice QR mostrato nell'altro dispositivo:";
 "authentication_qr_login_start_title" = "Scansiona codice QR";
 "authentication_login_with_qr" = "Accedi con codice QR";
@@ -2618,7 +2618,7 @@
 "user_session_inactive_session_title" = "Sessioni inattive";
 "user_session_unverified_session_description" = "Le sessioni non verificate sono quelle in cui è stato fatto l'accesso con le tue credenziali, ma che non sono state verificate.\n\nDovresti essere particolarmente sicuro di riconoscere queste sessioni dato che potrebbero rappresentare un uso non autorizzato del tuo account.";
 "user_session_unverified_session_title" = "Sessione non verificata";
-"user_session_verified_session_description" = "Le sessioni verificate sono ovunque usi Element dopo l'inserimento della password o la conferma della tua identità con un'altra sessione verificata.\n\nCiò significa che hai tutte le chiavi necessarie per sbloccare i tuoi messaggi cifrati e per confermare agli altri utenti che ti fidi di questa sessione.";
+"user_session_verified_session_description" = "Le sessioni verificate sono ovunque usi Superhero Chat dopo l'inserimento della password o la conferma della tua identità con un'altra sessione verificata.\n\nCiò significa che hai tutte le chiavi necessarie per sbloccare i tuoi messaggi cifrati e per confermare agli altri utenti che ti fidi di questa sessione.";
 "user_session_verified_session_title" = "Sessioni verificate";
 "user_session_got_it" = "Capito";
 "voice_broadcast_tile" = "Trasmissione vocale";
@@ -2700,7 +2700,7 @@
 "key_verification_scan_qr_code_information_other_user" = "Punta la fotocamera verso il codice QR mostrato sul suo dispositivo per verificare sua la sessione";
 "key_verification_scan_qr_code_title" = "Scansiona codice QR";
 "device_verification_self_verify_wait_recover_secrets_additional_help" = "Non riesci ad accedere a una sessione esistente di %@?";
-"device_verification_self_verify_open_on_other_device_information" = "Devi verificare questa sessione per potere leggere la cronologia dei messaggi sicuri.\n\nApri Element su uno degli altri tuoi dispositivi e segui le istruzioni.";
+"device_verification_self_verify_open_on_other_device_information" = "Devi verificare questa sessione per potere leggere la cronologia dei messaggi sicuri.\n\nApri Superhero Chat su uno degli altri tuoi dispositivi e segui le istruzioni.";
 "device_verification_self_verify_open_on_other_device_title" = "Apri %@ sull'altro tuo dispositivo";
 "room_creation_only_one_email_invite" = "Puoi invitare una sola email alla volta";
 "launch_loading_delay_warning" = "Potrebbe volerci un po' più tempo.\nGrazie per la pazienza.";

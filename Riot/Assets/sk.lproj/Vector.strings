@@ -27,7 +27,7 @@
 "leave" = "Opustiť";
 "start" = "Začať";
 "store_promotional_text" = "Aplikácia na chatovanie a spoluprácu s ochranou súkromia v otvorenej sieti. Decentralizovaná, aby ste ju mali pod kontrolou. Žiadne dolovanie údajov, žiadne zadné vrátka ani prístup tretích strán.";
-"store_full_description" = "Element je nový typ aplikácie na posielanie správ a spoluprácu, ktorá:\n\n1. vám dáva kontrolu nad zachovaním vášho súkromia\n2. Umožňuje vám komunikovať s kýmkoľvek v sieti Matrix, a dokonca aj mimo nej vďaka integrácii s aplikáciami, ako je Slack\n3. Chráni vás pred reklamou, získavaním údajov, zadnými vrátkami a uzavretým ekosystémom.\n4. Zabezpečuje vás prostredníctvom end-to-end šifrovania s krížovým podpisovaním na overenie ostatných\n\nElement sa úplne líši od ostatných aplikácií na zasielanie správ a spoluprácu, pretože je decentralizovaný a má otvorený zdrojový kód.\n\nElement vám umožňuje, aby ste sa sami hosťovali - alebo si vybrali hosting - takže máte súkromie, vlastníctvo a kontrolu nad svojimi údajmi a konverzáciami. Poskytuje vám prístup k otvorenej sieti; takže nie ste odkázaní len na rozhovory s inými používateľmi aplikácie Element. A je veľmi bezpečný.\n\nElement toto všetko dokáže, pretože funguje na Matrixe - štandarde pre otvorenú, decentralizovanú komunikáciu. \n\nElement vám dáva kontrolu tým, že vám umožňuje vybrať si, kto bude hostiť vaše konverzácie. V aplikácii Element si môžete vybrať, či chcete hosťovať rôznymi spôsobmi:\n\n1. Získajte bezplatný účet na verejnom serveri matrix.org\n2. Vlastný hosting účtu spustením servera na vlastnom hardvéri.\n3. Zaregistrujte si účet na vlastnom serveri jednoduchým predplatením hostingovej platformy Element Matrix Services.\n\nPrečo si vybrať práve Element?\n\nVLASTNÍTE SVOJE DÁTA: Vy rozhodujete o tom, kde budú vaše dáta a správy uložené. Vlastníte ich a máte nad nimi kontrolu, nie nejaká MEGAKORPORÁCIA, ktorá vaše údaje doluje alebo poskytuje prístup tretím stranám.\n\nOTVORENÁ KONVERZÁCIA A SPOLUPRÁCA: Môžete chatovať s kýmkoľvek iným v sieti Matrix, či už používa aplikáciu Element alebo inú aplikáciu Matrix, a dokonca aj vtedy, ak používa iný systém správ typu Slack, IRC alebo XMPP.\n\nSUPER-BEZPEČNÉ: Skutočné end-to-end šifrovanie (správy môžu dešifrovať len účastníci konverzácie) a krížové podpisovanie na overenie zariadení účastníkov konverzácie.\n\nKOMPLETNÁ KOMUNIKÁCIA: Správy, hlasové a videohovory, zdieľanie súborov, zdieľanie obrazovky a celý rad integrácií, botov a widgetov. Vytvárajte miestnosti, komunity, zostaňte v kontakte a vybavujte veci.\n\nKDEKOĽVEK STE: Zostaňte v kontakte, nech ste kdekoľvek, s plne synchronizovanou históriou správ vo všetkých zariadeniach a na webe na https://element.io/app.";
+"store_full_description" = "Superhero Chat je nový typ aplikácie na posielanie správ a spoluprácu, ktorá:\n\n1. vám dáva kontrolu nad zachovaním vášho súkromia\n2. Umožňuje vám komunikovať s kýmkoľvek v sieti Matrix, a dokonca aj mimo nej vďaka integrácii s aplikáciami, ako je Slack\n3. Chráni vás pred reklamou, získavaním údajov, zadnými vrátkami a uzavretým ekosystémom.\n4. Zabezpečuje vás prostredníctvom end-to-end šifrovania s krížovým podpisovaním na overenie ostatných\n\nSuperhero Chat sa úplne líši od ostatných aplikácií na zasielanie správ a spoluprácu, pretože je decentralizovaný a má otvorený zdrojový kód.\n\nSuperhero Chat vám umožňuje, aby ste sa sami hosťovali - alebo si vybrali hosting - takže máte súkromie, vlastníctvo a kontrolu nad svojimi údajmi a konverzáciami. Poskytuje vám prístup k otvorenej sieti; takže nie ste odkázaní len na rozhovory s inými používateľmi aplikácie Superhero Chat. A je veľmi bezpečný.\n\nSuperhero Chat toto všetko dokáže, pretože funguje na Matrixe - štandarde pre otvorenú, decentralizovanú komunikáciu. \n\nSuperhero Chat vám dáva kontrolu tým, že vám umožňuje vybrať si, kto bude hostiť vaše konverzácie. V aplikácii Superhero Chat si môžete vybrať, či chcete hosťovať rôznymi spôsobmi:\n\n1. Získajte bezplatný účet na verejnom serveri matrix.org\n2. Vlastný hosting účtu spustením servera na vlastnom hardvéri.\n3. Zaregistrujte si účet na vlastnom serveri jednoduchým predplatením hostingovej platformy Superhero Chat Matrix Services.\n\nPrečo si vybrať práve Superhero Chat?\n\nVLASTNÍTE SVOJE DÁTA: Vy rozhodujete o tom, kde budú vaše dáta a správy uložené. Vlastníte ich a máte nad nimi kontrolu, nie nejaká MEGAKORPORÁCIA, ktorá vaše údaje doluje alebo poskytuje prístup tretím stranám.\n\nOTVORENÁ KONVERZÁCIA A SPOLUPRÁCA: Môžete chatovať s kýmkoľvek iným v sieti Matrix, či už používa aplikáciu Superhero Chat alebo inú aplikáciu Matrix, a dokonca aj vtedy, ak používa iný systém správ typu Slack, IRC alebo XMPP.\n\nSUPER-BEZPEČNÉ: Skutočné end-to-end šifrovanie (správy môžu dešifrovať len účastníci konverzácie) a krížové podpisovanie na overenie zariadení účastníkov konverzácie.\n\nKOMPLETNÁ KOMUNIKÁCIA: Správy, hlasové a videohovory, zdieľanie súborov, zdieľanie obrazovky a celý rad integrácií, botov a widgetov. Vytvárajte miestnosti, komunity, zostaňte v kontakte a vybavujte veci.\n\nKDEKOĽVEK STE: Zostaňte v kontakte, nech ste kdekoľvek, s plne synchronizovanou históriou správ vo všetkých zariadeniach a na webe na https://element.io/app.";
 "create" = "Vytvoriť";
 "continue" = "Pokračovať";
 "back" = "Späť";
@@ -1649,7 +1649,7 @@
 "onboarding_splash_page_3_title" = "Zabezpečené zasielanie správ.";
 "onboarding_splash_page_3_message" = "End-to-end šifrovanie a bez potreby telefónneho čísla. Žiadne reklamy ani zneužívanie údajov.";
 "onboarding_splash_page_4_title_no_pun" = "Zasielanie správ pre váš tím.";
-"onboarding_splash_page_4_message" = "Element je skvelý aj na pracovisku. Dôverujú mu najbezpečnejšie organizácie na svete.";
+"onboarding_splash_page_4_message" = "Superhero Chat je skvelý aj na pracovisku. Dôverujú mu najbezpečnejšie organizácie na svete.";
 "settings_enable_room_message_bubbles" = "Správy v bublinách";
 "share_extension_failed_to_encrypt" = "Nepodarilo sa odoslať. Skontrolujte v hlavnej aplikácii nastavenia šifrovania pre túto miestnosť";
 "service_terms_modal_policy_checkbox_accessibility_hint" = "Označte, či chcete prijať %@";
@@ -2523,7 +2523,7 @@
 "confirm" = "Potvrdiť";
 "location_sharing_allow_background_location_cancel_action" = "Teraz nie";
 "location_sharing_allow_background_location_validate_action" = "Nastavenia";
-"location_sharing_allow_background_location_message" = "Ak chcete zdieľať svoju polohu v reálnom čase, Element potrebuje prístup k polohe, keď beží aplikácia na pozadí.Ak chcete povoliť prístup, ťuknite na položku Nastavenia> Poloha a vyberte položku Vždy";
+"location_sharing_allow_background_location_message" = "Ak chcete zdieľať svoju polohu v reálnom čase, Superhero Chat potrebuje prístup k polohe, keď beží aplikácia na pozadí.Ak chcete povoliť prístup, ťuknite na položku Nastavenia> Poloha a vyberte položku Vždy";
 "location_sharing_allow_background_location_title" = "Povoliť prístup";
 "settings_labs_enable_live_location_sharing" = "Zdieľanie polohy v reálnom čase - zdieľanie aktuálnej polohy (v aktívnom vývoji a polohy dočasne pretrvávajú v histórii miestnosti)";
 "settings_ui_show_redactions_in_room_history" = "Zobrazovať náhrady za odstránené správy";
@@ -2744,7 +2744,7 @@
 
 // MARK: User sessions management
 
-// Parameter is the application display name (e.g. "Element")
+// Parameter is the application display name (e.g. "Superhero Chat")
 "user_sessions_default_session_display_name" = "%@ iOS";
 "sign_out_confirmation_message" = "Naozaj sa chcete odhlásiť?";
 
@@ -2766,7 +2766,7 @@
 "authentication_qr_login_scan_subtitle" = "Umiestnite QR kód do nižšie zobrazeného štvorca";
 "authentication_qr_login_scan_title" = "Skenovať QR kód";
 "authentication_qr_login_display_step2" = "Vyberte možnosť \"Prihlásiť sa pomocou QR kódu\"";
-"authentication_qr_login_display_step1" = "Otvorte aplikáciu Element na vašom druhom zariadení";
+"authentication_qr_login_display_step1" = "Otvorte aplikáciu Superhero Chat na vašom druhom zariadení";
 "authentication_qr_login_display_subtitle" = "Naskenujte nižšie uvedený QR kód pomocou zariadenia, ktoré je odhlásené.";
 "authentication_qr_login_display_title" = "Prepojiť zariadenie";
 "authentication_qr_login_start_display_qr" = "Zobraziť QR kód na tomto zariadení";
@@ -2774,7 +2774,7 @@
 "authentication_qr_login_start_step4" = "Vyberte možnosť \"Zobraziť QR kód na tomto zariadení\"";
 "authentication_qr_login_start_step3" = "Vyberte položku \"Prepojiť zariadenie\"";
 "authentication_qr_login_start_step2" = "Prejdite do ponuky Nastavenia -> Zabezpečenie a súkromie";
-"authentication_qr_login_start_step1" = "Otvorte aplikáciu Element na vašom druhom zariadení";
+"authentication_qr_login_start_step1" = "Otvorte aplikáciu Superhero Chat na vašom druhom zariadení";
 "authentication_qr_login_start_subtitle" = "Pomocou fotoaparátu na tomto zariadení naskenujte QR kód zobrazený na vašom druhom zariadení:";
 "authentication_qr_login_start_title" = "Skenovať QR kód";
 "authentication_login_with_qr" = "Prihlásiť sa pomocou QR kódu";
@@ -2843,7 +2843,7 @@
 "user_session_inactive_session_title" = "Neaktívne relácie";
 "user_session_unverified_session_description" = "Neoverené relácie sú relácie, do ktorých ste sa prihlásili pomocou svojich prístupových údajov, ale ktoré neboli krížovo overené.\n\nMali by ste si byť obzvlášť istí, že tieto relácie poznáte, pretože by mohli predstavovať neoprávnené použitie vášho konta.";
 "user_session_unverified_session_title" = "Neoverená relácia";
-"user_session_verified_session_description" = "Overené relácie sú všade tam, kde používate Element po zadaní svojho prístupového hesla alebo po potvrdení svojej totožnosti inou overenou reláciou.\n\nTo znamená, že máte všetky kľúče potrebné na odomknutie zašifrovaných správ a potvrdenie pre ostatných používateľov, že tejto relácii dôverujete.";
+"user_session_verified_session_description" = "Overené relácie sú všade tam, kde používate Superhero Chat po zadaní svojho prístupového hesla alebo po potvrdení svojej totožnosti inou overenou reláciou.\n\nTo znamená, že máte všetky kľúče potrebné na odomknutie zašifrovaných správ a potvrdenie pre ostatných používateľov, že tejto relácii dôverujete.";
 "user_session_verified_session_title" = "Overené relácie";
 "user_session_got_it" = "Rozumiem";
 "key_verification_alert_body" = "Skontrolujte, či je vaše konto bezpečné.";
@@ -2923,7 +2923,7 @@
 "key_verification_scan_qr_code_information_other_user" = "Nasmerujte kameru na QR kód zobrazený na ich zariadení a overte ich reláciu";
 "key_verification_scan_qr_code_title" = "Skenovať QR kód";
 "device_verification_self_verify_wait_recover_secrets_additional_help" = "Nemôžete získať prístup k existujúcej relácii %@?";
-"device_verification_self_verify_open_on_other_device_information" = "Ak si chcete prečítať históriu zabezpečených správ, musíte túto reláciu overiť.\n\nOtvorte aplikáciu Element na jednom z vašich iných zariadení a postupujte podľa pokynov.";
+"device_verification_self_verify_open_on_other_device_information" = "Ak si chcete prečítať históriu zabezpečených správ, musíte túto reláciu overiť.\n\nOtvorte aplikáciu Superhero Chat na jednom z vašich iných zariadení a postupujte podľa pokynov.";
 "device_verification_self_verify_open_on_other_device_title" = "Otvorte %@ na vašom druhom zariadení";
 "room_creation_only_one_email_invite" = "Naraz môžete pozvať len jeden e-mail";
 "launch_loading_delay_warning" = "Môže to trvať trochu dlhšie.\nĎakujeme za vašu trpezlivosť.";

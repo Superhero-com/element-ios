@@ -617,7 +617,7 @@
 // Generic errors
 "error_invite_3pid_with_no_identity_server" = "Lägg till en identitetsserver i dina inställningar för att bjuda in via e-post.";
 "secrets_recovery_with_passphrase_information_default" = "Få tillgång till din säkra meddelandehistorik och din identitet för korssignering för att verifiera andra sessioner genom att ange din säkerhetsfras.";
-"store_full_description" = "Element är en ny sorts meddelande- och samarbetsapp som:\n\n1. Sätter dig i kontroll för att kunna säkerställa ditt privatliv\n2. Låter dig kommunicera med vem som helst i Matrix-nätverket, och till och med bortom det genom integrationer med appar som Slack\n3. Skyddar dig från reklam, datainsamling, bakdörrar och inlåsning\n4. Säkrar dig genom totalsträckskryptering, med korssingering för att verifiera andra\n\nElement skiljer sig helt från andra meddelande- och samarbetsappar genom att vara decentraliserad och öppen källkod.\n\nElement låter dig driva en egen server - eller välja en värd - så att du har sekretess, ägande och kontroll över din data och dina konversationer. Den ger dig tillgång till ett öppet nätverk; så att du inte kan prata bara med Element-användare. Och den är väldigt säker.\n\nElement kan göra allt detta för att den använder Matrix - standarden för öppen decentraliserad kommunikation.\n\nElement sätter dig i kontroll genom att låta dig välja att vara värd för dina konversationer. Från appen Element kan du välja att ansluta på följande sätt:\n\n1. Skaffa ett gratis konto på den publika servern på matrix.org\n2. Var värd för ditt eget konto genom att driva en server på din egen hårdvara\n3. Skapa ett konto på en anpassad server genom att registrera dig på värdplattformen Element Matrix Services\n\nVarför välja Element?\n\nÄG DIN DATA: Du väljer var du vill ha din data och dina meddelanden. Du äger den och kontrollerar den, inte nåt stort företag som samlar in din data och ger den till tredje parter.\n\nÖPPEN KOMMUNIKATION OCH ÖPPET SAMARBETE: Du kan chatta med vem som helst på Matrix-nätverket, oavsett om de använder Element eller en annan Matrix-app, och till och med om de använder ett annat meddelandesystem som Slack, IRC eller XMPP.\n\nSUPERSÄKER: Riktig totalsträckskryptering (bara de in konversationen kan avkryptera meddelandena), och korssingering för att verifiera konversationsmedlemmars enheter.\n\nKOMPLETT KOMMUNIKATION: Meddelanden, röst- och videosamtal, fildelning, skärmdelning och massa integrationer, bottar och widgets. Skapa rum och gemenskaper, håll kontakten och få saker gjorda.\n\nÖVERALLT DÄR DU ÄR: Håll kontakten vart du än befinner dig med fullständigt synkroniserad meddelandehistorik på alla dina enheter och på webben på https://element.io/app.";
+"store_full_description" = "Superhero Chat är en ny sorts meddelande- och samarbetsapp som:\n\n1. Sätter dig i kontroll för att kunna säkerställa ditt privatliv\n2. Låter dig kommunicera med vem som helst i Matrix-nätverket, och till och med bortom det genom integrationer med appar som Slack\n3. Skyddar dig från reklam, datainsamling, bakdörrar och inlåsning\n4. Säkrar dig genom totalsträckskryptering, med korssingering för att verifiera andra\n\nSuperhero Chat skiljer sig helt från andra meddelande- och samarbetsappar genom att vara decentraliserad och öppen källkod.\n\nSuperhero Chat låter dig driva en egen server - eller välja en värd - så att du har sekretess, ägande och kontroll över din data och dina konversationer. Den ger dig tillgång till ett öppet nätverk; så att du inte kan prata bara med Superhero Chat-användare. Och den är väldigt säker.\n\nSuperhero Chat kan göra allt detta för att den använder Matrix - standarden för öppen decentraliserad kommunikation.\n\nSuperhero Chat sätter dig i kontroll genom att låta dig välja att vara värd för dina konversationer. Från appen Superhero Chat kan du välja att ansluta på följande sätt:\n\n1. Skaffa ett gratis konto på den publika servern på matrix.org\n2. Var värd för ditt eget konto genom att driva en server på din egen hårdvara\n3. Skapa ett konto på en anpassad server genom att registrera dig på värdplattformen Superhero Chat Matrix Services\n\nVarför välja Superhero Chat?\n\nÄG DIN DATA: Du väljer var du vill ha din data och dina meddelanden. Du äger den och kontrollerar den, inte nåt stort företag som samlar in din data och ger den till tredje parter.\n\nÖPPEN KOMMUNIKATION OCH ÖPPET SAMARBETE: Du kan chatta med vem som helst på Matrix-nätverket, oavsett om de använder Superhero Chat eller en annan Matrix-app, och till och med om de använder ett annat meddelandesystem som Slack, IRC eller XMPP.\n\nSUPERSÄKER: Riktig totalsträckskryptering (bara de in konversationen kan avkryptera meddelandena), och korssingering för att verifiera konversationsmedlemmars enheter.\n\nKOMPLETT KOMMUNIKATION: Meddelanden, röst- och videosamtal, fildelning, skärmdelning och massa integrationer, bottar och widgets. Skapa rum och gemenskaper, håll kontakten och få saker gjorda.\n\nÖVERALLT DÄR DU ÄR: Håll kontakten vart du än befinner dig med fullständigt synkroniserad meddelandehistorik på alla dina enheter och på webben på https://element.io/app.";
 "auth_add_email_phone_message_2" = "Sätt en e-postadress för kontoåterställning. E-postadress och telefonnummer kan senare valfritt användas för att vara upptäckbar av folk som känner dig.";
 "auth_add_email_and_phone_warning" = "Registrering med e-post och telefonnummer samtidigt stöds inte än, tills att API:t finns. Endast telefonnumret kommer att användas. Du kan lägga till din e-postadress till din profil i inställningarna.";
 "auth_autodiscover_invalid_response" = "Ogiltigt upptäcktssvar från hemservern";
@@ -1566,7 +1566,7 @@
 "room_event_action_view_in_room" = "Visa i rum";
 "room_event_action_end_poll" = "Avsluta omröstning";
 "room_event_action_remove_poll" = "Ta bort omröstning";
-"onboarding_splash_page_4_message" = "Element är också bra för arbetsplatser. Den är betrodd av världens säkraste organisationer.";
+"onboarding_splash_page_4_message" = "Superhero Chat är också bra för arbetsplatser. Den är betrodd av världens säkraste organisationer.";
 "onboarding_splash_page_4_title_no_pun" = "Meddelanden för ditt team.";
 "onboarding_splash_page_3_message" = "Totalsträckskrypterad och inget telefonnummer krävs. Ingen reklam eller datainsamling.";
 "onboarding_splash_page_3_title" = "Säkra meddelanden.";
@@ -2264,7 +2264,7 @@
 "confirm" = "Bekräfta";
 "location_sharing_allow_background_location_cancel_action" = "Inte nu";
 "location_sharing_allow_background_location_validate_action" = "Inställningar";
-"location_sharing_allow_background_location_message" = "Om du vill dela din realtidsplats så behöver Element platsåtkomst när appen är i bakgrunden. För att aktivera åtkomst, gå till Inställningar > Plats och välj Alltid";
+"location_sharing_allow_background_location_message" = "Om du vill dela din realtidsplats så behöver Superhero Chat platsåtkomst när appen är i bakgrunden. För att aktivera åtkomst, gå till Inställningar > Plats och välj Alltid";
 "location_sharing_allow_background_location_title" = "Tillåt åtkomst";
 "settings_labs_enable_live_location_sharing" = "Platsdelning i realtid - dela nuvarande plats (aktiv utveckling, och för tillfället ligger platser kvar i rumshistoriken)";
 
@@ -2451,7 +2451,7 @@
 "authentication_qr_login_scan_subtitle" = "Placera QR-koden i rutan nedan";
 "authentication_qr_login_scan_title" = "Skanna QR-kod";
 "authentication_qr_login_display_step2" = "Välj 'Logga in med QR-kod'";
-"authentication_qr_login_display_step1" = "Öppna Element på din andra enhet";
+"authentication_qr_login_display_step1" = "Öppna Superhero Chat på din andra enhet";
 "authentication_qr_login_display_subtitle" = "Skanna QR-koden nedan med din enhet som är utloggad.";
 "authentication_qr_login_display_title" = "Länka en enhet";
 "authentication_qr_login_start_display_qr" = "Visa QR-kod på den här enheten";
@@ -2459,7 +2459,7 @@
 "authentication_qr_login_start_step4" = "Välj 'Visa QR-kod på den här enheten'";
 "authentication_qr_login_start_step3" = "Välj 'Länka en enhet'";
 "authentication_qr_login_start_step2" = "Gå till Inställningar -> Säkerhet & sekretess";
-"authentication_qr_login_start_step1" = "Öppna Element på den andra enheten";
+"authentication_qr_login_start_step1" = "Öppna Superhero Chat på den andra enheten";
 "authentication_qr_login_start_subtitle" = "Använd kameran på den här enheten för att skanna QR-koden som visas på den andra enheten:";
 "authentication_qr_login_start_title" = "Skanna QR-kod";
 "authentication_choose_password_not_verified_message" = "Kolla din inkorg";
@@ -2562,7 +2562,7 @@
 "user_session_permanently_unverified_session_description" = "Sessionen stöder inte kryptering, så den kan inte verifieras.\n\nDu kommer inte kunna delta i rum där kryptering är aktiverat när du använder den här sessionen.\n\nFör bäst säkerhet så rekommenderas det att använda Matrixklienter som stöder kryptering.";
 "user_session_unverified_session_description" = "Overifierade sessioner är sessioner som har loggat in med dina uppgifter men som inte har korsverifierats.\n\nDu bör speciellt försäkra att du känner igen dessa sessioner eftersom de kan representera obehörig användning av ditt konto.";
 "user_session_unverified_session_title" = "Overifierad session";
-"user_session_verified_session_description" = "Verifierade sessioner är alla ställen där du använder Element efter att ha angett din lösenfras eller bekräftat din identitet med en annan verifierad session.\n\nDet betyder att du har alla nycklar som krävs för att låsa upp krypterade meddelanden och bekräfta för andra användare att du litar på den här sessionen.";
+"user_session_verified_session_description" = "Verifierade sessioner är alla ställen där du använder Superhero Chat efter att ha angett din lösenfras eller bekräftat din identitet med en annan verifierad session.\n\nDet betyder att du har alla nycklar som krävs för att låsa upp krypterade meddelanden och bekräfta för andra användare att du litar på den här sessionen.";
 "user_session_verified_session_title" = "Verifierade sessioner";
 "user_session_got_it" = "Förstått";
 "user_session_push_notifications_message" = "När aktiverad så tar den här sessionen emot pushnotiser.";
@@ -2599,7 +2599,7 @@
 
 // MARK: User sessions management
 
-// Parameter is the application display name (e.g. "Element")
+// Parameter is the application display name (e.g. "Superhero Chat")
 "user_sessions_default_session_display_name" = "%@ iOS";
 "location_sharing_map_loading_error" = "Kan inte ladda karta.\nDen här hemservern är inte konfigurerad för att visa kartor";
 "location_sharing_invalid_power_level_message" = "Du har inte de behörigheter som krävs för att dela realtidsplats i det här rummet.";
@@ -2684,7 +2684,7 @@
 "device_verification_self_verify_open_on_other_device_title" = "Öppna %@ på din andra enhet";
 "device_verification_self_verify_wait_recover_secrets_additional_help" = "Kan du inte komma åt en befintlig %@-session?";
 "key_verification_scan_qr_code_title" = "Skanna QR-kod";
-"device_verification_self_verify_open_on_other_device_information" = "Du behöver verifiera den här sessionen för att kunna läsa din säkra meddelandehistorik.\n\nÖppna Element på en av dina andra enheter och följ instruktionerna.";
+"device_verification_self_verify_open_on_other_device_information" = "Du behöver verifiera den här sessionen för att kunna läsa din säkra meddelandehistorik.\n\nÖppna Superhero Chat på en av dina andra enheter och följ instruktionerna.";
 "key_verification_scan_qr_code_information_other_user" = "Rikta kameran mot QR-koden som visas på deras enhet för att verifiera deras session";
 "room_waiting_other_participants_title" = "Väntar på att användare ska gå med i %@";
 "pill_message_from" = "Meddelande från %@";

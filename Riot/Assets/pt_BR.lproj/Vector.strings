@@ -555,7 +555,7 @@
 "rerequest_keys_alert_message" = "Por favor lance %@ em um outro dispositivo que possa decriptar a mensagem para que ele possa enviar as chaves para esta sessão.";
 // String for App Store
 "store_short_description" = "Chat/VoIP descentralizado e seguro";
-"store_full_description" = "Element is um novo tipo de mensageiro e app de colaboração que:\n\n1. Põe você em controle para preservar sua privacidade\n2. Permite você se comunicar com qualquer pessoa na rede Matrix, e até além ao integrar-se com apps como Slack\n3. Protege você de publicidade, datamining, backdoors e jardins murados\n4. Assegura você através de encriptação ponta-a-pontam com assinatura cruzada para verificar ouras(os)\n\nElement é completamente diferente de outros apps de mensageria e colaboração porque ele é descentralizado e open source.\n\nElement permite você auto-hospedar - ou escolher um host - para que você tenha privacidade, propriedade e controle de seus dados e conversas. Ele dá a você acesso a uma rede aberta; então você não está simplesmente preso falando com outras(os) usuárias(os) Element somente. E ele é muito seguro.\n\nElement é capaz de fazer tudo isso porque ele opera em Matrix - o padrão para comunicação aberta e descentralizada.\n\nElement põe você em controle ao permitir você escolher quem hospeda suas conversas. De seu app Element, você pode escolher hospedar de diferentes maneiras:\n\n1. Pegar uma conta grátis no servidor público matrix.org\n2. Auto-hospedar sua conta ao rodar um servidor em seu próprio hardware\n3. Registrar-se para uma conta num servidor personalizado ao simplesmente assinar a plataforma de hospedagem Element Matrix Services\n\nPorquê escolher Element?\n\nTENHA POSSE DE SEUS DADOS: Você decide onde manter seus dados e mensagens. Você os possui e controla, não alguma MEGACORP que mina seus dados ou dá acesso a terceiros.\n\nMENSAGERIA E COLABORAÇÃO ABERTOS: Você pode conversar com qualquer outra pessoa na rede Matrix, caso ela esteja usando Element ou um outro app Matrix, e mesmo se ela estiver usando um sistema de mensageria diferente, do tipo de Slack, IRC ou XMPP.\n\nSUPER-SEGURO: Encriptação ponta-a-ponta real (somente aquelas/es na conversa podem decriptar mensagens), e assinatura cruzada para verificar os dispositivos de participantes de conversa.\n\nCOMUNICAÇÃO COMPLETA: Mensageria, chamadas de voz e vídeo, compartilhamento de arquivo, compartilhamento de tela e um monte de integrações, bots e widgets. Construa salas, comunidades, fique em contato e tenha as coisas feitas.\n\nEM TODO LUGAR ONDE VOCÊ ESTEJA: Fique em contato onde quer que você esteja com histórico de mensagem sincronizado por todos os dispositivos e na web em https://element.io/app.";
+"store_full_description" = "Superhero Chat is um novo tipo de mensageiro e app de colaboração que:\n\n1. Põe você em controle para preservar sua privacidade\n2. Permite você se comunicar com qualquer pessoa na rede Matrix, e até além ao integrar-se com apps como Slack\n3. Protege você de publicidade, datamining, backdoors e jardins murados\n4. Assegura você através de encriptação ponta-a-pontam com assinatura cruzada para verificar ouras(os)\n\nSuperhero Chat é completamente diferente de outros apps de mensageria e colaboração porque ele é descentralizado e open source.\n\nSuperhero Chat permite você auto-hospedar - ou escolher um host - para que você tenha privacidade, propriedade e controle de seus dados e conversas. Ele dá a você acesso a uma rede aberta; então você não está simplesmente preso falando com outras(os) usuárias(os) Superhero Chat somente. E ele é muito seguro.\n\nSuperhero Chat é capaz de fazer tudo isso porque ele opera em Matrix - o padrão para comunicação aberta e descentralizada.\n\nSuperhero Chat põe você em controle ao permitir você escolher quem hospeda suas conversas. De seu app Superhero Chat, você pode escolher hospedar de diferentes maneiras:\n\n1. Pegar uma conta grátis no servidor público matrix.org\n2. Auto-hospedar sua conta ao rodar um servidor em seu próprio hardware\n3. Registrar-se para uma conta num servidor personalizado ao simplesmente assinar a plataforma de hospedagem Superhero Chat Matrix Services\n\nPorquê escolher Superhero Chat?\n\nTENHA POSSE DE SEUS DADOS: Você decide onde manter seus dados e mensagens. Você os possui e controla, não alguma MEGACORP que mina seus dados ou dá acesso a terceiros.\n\nMENSAGERIA E COLABORAÇÃO ABERTOS: Você pode conversar com qualquer outra pessoa na rede Matrix, caso ela esteja usando Superhero Chat ou um outro app Matrix, e mesmo se ela estiver usando um sistema de mensageria diferente, do tipo de Slack, IRC ou XMPP.\n\nSUPER-SEGURO: Encriptação ponta-a-ponta real (somente aquelas/es na conversa podem decriptar mensagens), e assinatura cruzada para verificar os dispositivos de participantes de conversa.\n\nCOMUNICAÇÃO COMPLETA: Mensageria, chamadas de voz e vídeo, compartilhamento de arquivo, compartilhamento de tela e um monte de integrações, bots e widgets. Construa salas, comunidades, fique em contato e tenha as coisas feitas.\n\nEM TODO LUGAR ONDE VOCÊ ESTEJA: Fique em contato onde quer que você esteja com histórico de mensagem sincronizado por todos os dispositivos e na web em https://element.io/app.";
 "auth_login_single_sign_on" = "Fazer Sign In";
 "auth_autodiscover_invalid_response" = "Resposta de descoberta de servidorcasa inválida";
 "room_message_unable_open_link_error_message" = "Incapaz de abrir o link.";
@@ -1573,7 +1573,7 @@
 "ok" = "OK";
 "onboarding_splash_page_1_message" = "Comunicação segura e independente que lhe dá o mesmo nível de privacidade que uma conversa face-a-face em sua própria casa.";
 "settings_enable_room_message_bubbles" = "Bolhas de mensagem";
-"onboarding_splash_page_4_message" = "Element também é ótimo para o lugar de trabalho. Ele é confiado pelas organizações mais seguras do mundo.";
+"onboarding_splash_page_4_message" = "Superhero Chat também é ótimo para o lugar de trabalho. Ele é confiado pelas organizações mais seguras do mundo.";
 "onboarding_splash_page_4_title_no_pun" = "Mensageria para seu time.";
 "onboarding_splash_page_3_message" = "Encriptado ponta-a-ponta e nenhum número de telefone requerido. Sem publicidade ou datamining.";
 "onboarding_splash_page_3_title" = "Mensageria segura.";
@@ -2297,7 +2297,7 @@
 "confirm" = "Confirmar";
 "location_sharing_allow_background_location_cancel_action" = "Não agora";
 "location_sharing_allow_background_location_validate_action" = "Ajustes";
-"location_sharing_allow_background_location_message" = "Se você gostaria de acessar sua localização Ao Vivo, Element precisa de acesso de localização quando o app está no background. Para habilitar acesso, toque Ajustes > Localização e selecione Sempre";
+"location_sharing_allow_background_location_message" = "Se você gostaria de acessar sua localização Ao Vivo, Superhero Chat precisa de acesso de localização quando o app está no background. Para habilitar acesso, toque Ajustes > Localização e selecione Sempre";
 "location_sharing_allow_background_location_title" = "Permitir acesso";
 "settings_labs_enable_live_location_sharing" = "Compartilhamento de localização ao vivo - compartilhar localização atual (desenvolvimento ativo, e temporariamente, localizações persistem em histórico de sala)";
 "settings_ui_show_redactions_in_room_history" = "Mostrar um placeholder para mensagens removidas";
@@ -2522,7 +2522,7 @@
 
 // MARK: User sessions management
 
-// Parameter is the application display name (e.g. "Element")
+// Parameter is the application display name (e.g. "Superhero Chat")
 "user_sessions_default_session_display_name" = "%@ iOS";
 "sign_out_confirmation_message" = "Tem certeza que você quer fazer signout?";
 
@@ -2544,7 +2544,7 @@
 "authentication_qr_login_scan_subtitle" = "Posicione o QR code no quadrado abaixo";
 "authentication_qr_login_scan_title" = "Scannar QR code";
 "authentication_qr_login_display_step2" = "Selecione ‘Fazer signin com QR code’";
-"authentication_qr_login_display_step1" = "Abra Element em seu outro dispositivo";
+"authentication_qr_login_display_step1" = "Abra Superhero Chat em seu outro dispositivo";
 "authentication_qr_login_display_subtitle" = "Scanne o QR code abaixo com seu dispositivo que está feito signout.";
 "authentication_qr_login_display_title" = "Linkar um dispositivo";
 "authentication_qr_login_start_display_qr" = "Mostrar QR code neste dispositivo";
@@ -2552,7 +2552,7 @@
 "authentication_qr_login_start_step4" = "Selecione ‘Mostrar QR code neste dispositivo’";
 "authentication_qr_login_start_step3" = "Selecione ‘Linkar um dispositivo’";
 "authentication_qr_login_start_step2" = "Vá para Ajustes -> Segurança & Privacidade";
-"authentication_qr_login_start_step1" = "Abra Element em seu outro dispositivo";
+"authentication_qr_login_start_step1" = "Abra Superhero Chat em seu outro dispositivo";
 "authentication_qr_login_start_subtitle" = "Use a câmera neste dispositivo para scannar o QR code mostrado em seu outro dispositivo:";
 "authentication_qr_login_start_title" = "Scannar QR code";
 "authentication_login_with_qr" = "Fazer signin com QR code";
@@ -2621,7 +2621,7 @@
 "user_session_inactive_session_title" = "Sessões inativas";
 "user_session_unverified_session_description" = "Sessões não-verificadas são sessões que você tem feito login com suas credenciais mas não têm sido verificadas cruzado.\n\nVocê devia especialmente se certificar que você reconhece estas sessões já que elas podiam representar um uso não-autorizado de sua conta.";
 "user_session_unverified_session_title" = "Sessão não-verificada";
-"user_session_verified_session_description" = "Sessões verificadas são onde quer que você esteja usando Element depois de entrar sua frasepasse ou confirmar sua identidade com uma outra sessões verificada.\n\nIsto significa que você tem todas as chaves necessárias para destrancar suas mensagens encriptadas e confirmar a outras(os) usuárias(os) que você confia nesta sessão.";
+"user_session_verified_session_description" = "Sessões verificadas são onde quer que você esteja usando Superhero Chat depois de entrar sua frasepasse ou confirmar sua identidade com uma outra sessões verificada.\n\nIsto significa que você tem todas as chaves necessárias para destrancar suas mensagens encriptadas e confirmar a outras(os) usuárias(os) que você confia nesta sessão.";
 "user_session_verified_session_title" = "Sessões verificadas";
 "user_session_got_it" = "Entendido";
 "user_other_session_permanently_unverified_additional_info" = "Esta sessão não suporta encriptação e assim não pode ser verificada.";

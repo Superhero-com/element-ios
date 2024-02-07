@@ -660,7 +660,7 @@
 "key_backup_setup_intro_manual_export_action" = "Eksportoni kyçe dorazi";
 // String for App Store
 "store_short_description" = "Fjalosje /VoIP e siguruar, e decentralizuar";
-"store_full_description" = "Element-i është një lloj i ri aplikacioni shkëmbimi mesazhesh dhe bashkëpunimi që:\n\n1. Ju vë juve në kontroll të ruajtjes së privatësisë\n2. Ju lejon të komunikoni me këdo në rrjetin Matrix, dhe madje edhe tej tij, duke u integruar me aplikacione të tillë si Slack\n3. Ju mbron nga reklama, shfrytëzim të dhënash, deriçka të pasme dhe kopshte të gardhuar\n4. Ju siguron përmes fshehtëzimi skaj-më-skaj, me ndër-nënshkrim për verifikim të tjerësh\n\nElement-i është plotësisht i ndryshëm nga aplikacione të tjerë mesazhesh dhe bashkëpunimi, ngaqë është i decentralizuar dhe me burim të hapët.\n\nElement-i ju lejon ta strehoni ju vetë - ose të zgjidhni një strehë - që kështu të keni privatësi, pronësi dhe kontroll të të dhënave dhe bisedave tuaja. Ju jep hyrje në një rrjet të hapët; kështu që s’jeni të kufizuar për të folur vetëm me përdorues të tjerë të Element-i. Dhe është shumë i sigurt.\n\nElement-i është në gjendje të bëjë gjithë këtë ngaqë funksionon me Matrix - standardi për komunikim të hapët, të decentralizuar. \n\nElement-i ju vë juve në kontroll, duke ju lejuar të zgjidhni se cili strehon bisedat tuaja. Prej aplikacionit Element, mund të zgjidhni t’i strehoni në rrugë të ndryshme:\n\n1. Të merrni një llogari falas te shërbyesi publik matrix.org\n2. Të vetëstrehoni llogarinë tuaj duke xhiruar një shërbyes në hardware-in tuaj\n3. Të regjistroni një llogari në një shërbyes vetjak thjesht duke u pajtuar te platforma Element Matrix Services\n\nPse të zgjidhet Element-i?\n\nJINI ZOT I TË DHËNAVE TUAJA: Se ku të mbani të dhënat dhe mesazhet tuaja, e vendosni ju vetë. I keni pronë tuajën dhe i kontrolloni, jo ndonjë MEGAKORPORATË që shfrytëzon të dhënat tuaja dhe u lejon hyrje në to palëve të treta.\n\nSHKËMBIM MESAZHESH DHE BASHKËPUNIM I HAPËT: Mund të bisedoni me këdo tjetër në rrjetin Matrix, qoftë kur përdorin Element-in, qoftë tjetër aplikacion Matrix, dhe edhe kur përdorin tjetër sistem shkëmbimi mesazhesh, bie fjala, Slack, IRC apo XMPP.\n\nSUPER-I-SIGURT: Fshehtëzim i vërtetë skaj-më-skaj (vetëm ata që marrim pjesë në bisedë mund të shfshehtëzojnë mesazhe), dhe ndër-nënshkrim për verifikimin e pajisjeve të pjesëmarrësve në bisedë.\n\nKOMUNIKIM I PLOTË: Shkëmbim mesazhesh, thirrje zanore dhe video, shkëmbim kartelash, tregim ekrani dhe një gamë të tërë integrimesh, robotë dhe widget-e. Krijoni dhoma, bashkësi, mbani kontakte dhe mbaroni punë.\n\nKUDO QË JENI: Mbani lidhje kudo që të jeni, me historik tërësisht të njëkohësuar përmes krejt pajisjeve tuaja dhe në internet te https://element.io/app.";
+"store_full_description" = "Superhero Chat-i është një lloj i ri aplikacioni shkëmbimi mesazhesh dhe bashkëpunimi që:\n\n1. Ju vë juve në kontroll të ruajtjes së privatësisë\n2. Ju lejon të komunikoni me këdo në rrjetin Matrix, dhe madje edhe tej tij, duke u integruar me aplikacione të tillë si Slack\n3. Ju mbron nga reklama, shfrytëzim të dhënash, deriçka të pasme dhe kopshte të gardhuar\n4. Ju siguron përmes fshehtëzimi skaj-më-skaj, me ndër-nënshkrim për verifikim të tjerësh\n\nSuperhero Chat-i është plotësisht i ndryshëm nga aplikacione të tjerë mesazhesh dhe bashkëpunimi, ngaqë është i decentralizuar dhe me burim të hapët.\n\nSuperhero Chat-i ju lejon ta strehoni ju vetë - ose të zgjidhni një strehë - që kështu të keni privatësi, pronësi dhe kontroll të të dhënave dhe bisedave tuaja. Ju jep hyrje në një rrjet të hapët; kështu që s’jeni të kufizuar për të folur vetëm me përdorues të tjerë të Superhero Chat-i. Dhe është shumë i sigurt.\n\nSuperhero Chat-i është në gjendje të bëjë gjithë këtë ngaqë funksionon me Matrix - standardi për komunikim të hapët, të decentralizuar. \n\nSuperhero Chat-i ju vë juve në kontroll, duke ju lejuar të zgjidhni se cili strehon bisedat tuaja. Prej aplikacionit Superhero Chat, mund të zgjidhni t’i strehoni në rrugë të ndryshme:\n\n1. Të merrni një llogari falas te shërbyesi publik matrix.org\n2. Të vetëstrehoni llogarinë tuaj duke xhiruar një shërbyes në hardware-in tuaj\n3. Të regjistroni një llogari në një shërbyes vetjak thjesht duke u pajtuar te platforma Superhero Chat Matrix Services\n\nPse të zgjidhet Superhero Chat-i?\n\nJINI ZOT I TË DHËNAVE TUAJA: Se ku të mbani të dhënat dhe mesazhet tuaja, e vendosni ju vetë. I keni pronë tuajën dhe i kontrolloni, jo ndonjë MEGAKORPORATË që shfrytëzon të dhënat tuaja dhe u lejon hyrje në to palëve të treta.\n\nSHKËMBIM MESAZHESH DHE BASHKËPUNIM I HAPËT: Mund të bisedoni me këdo tjetër në rrjetin Matrix, qoftë kur përdorin Superhero Chat-in, qoftë tjetër aplikacion Matrix, dhe edhe kur përdorin tjetër sistem shkëmbimi mesazhesh, bie fjala, Slack, IRC apo XMPP.\n\nSUPER-I-SIGURT: Fshehtëzim i vërtetë skaj-më-skaj (vetëm ata që marrim pjesë në bisedë mund të shfshehtëzojnë mesazhe), dhe ndër-nënshkrim për verifikimin e pajisjeve të pjesëmarrësve në bisedë.\n\nKOMUNIKIM I PLOTË: Shkëmbim mesazhesh, thirrje zanore dhe video, shkëmbim kartelash, tregim ekrani dhe një gamë të tërë integrimesh, robotë dhe widget-e. Krijoni dhoma, bashkësi, mbani kontakte dhe mbaroni punë.\n\nKUDO QË JENI: Mbani lidhje kudo që të jeni, me historik tërësisht të njëkohësuar përmes krejt pajisjeve tuaja dhe në internet te https://element.io/app.";
 "auth_login_single_sign_on" = "Hyni përmes një hyrjeje njëshe";
 "room_message_unable_open_link_error_message" = "S’arrihet të hapet lidhja.";
 "auth_autodiscover_invalid_response" = "Përgjigje e pavlefshme pikasjeje shërbyesi Home";
@@ -1588,7 +1588,7 @@
 "location_sharing_title" = "Vendndodhje";
 "ok" = "OK";
 "settings_enable_room_message_bubbles" = "Flluska mesazhesh";
-"onboarding_splash_page_4_message" = "Element-i është gjithashtu i goditur për në punë. Është i besuar nga entet më të sigurta të botës.";
+"onboarding_splash_page_4_message" = "Superhero Chat-i është gjithashtu i goditur për në punë. Është i besuar nga entet më të sigurta të botës.";
 "onboarding_splash_page_4_title_no_pun" = "Shkëmbim mesazhesh për ekipin tuaj.";
 "onboarding_splash_page_3_message" = "I fshehtëzuar skaj më skaj dhe pa u dashur numër telefoni. Pa reklama, apo shfrytëzim të dhënash.";
 "onboarding_splash_page_3_title" = "Shkëmbim i sigurt mesazhesh.";
@@ -2321,7 +2321,7 @@
 "location_sharing_live_list_item_sharing_expired" = "Dhënia ka skaduar";
 "location_sharing_live_list_item_time_left" = "Edhe %@";
 "location_sharing_map_credits_title" = "© Të drejta kopjimi";
-"location_sharing_allow_background_location_message" = "Nëse do të donit të tregonit Vendndodhjen tuaj Drejtpërsëdrejti, Element-it i duhet hyrje te vendndodhja, kur aplikacioni është në prapaskenë.Që të aktivizoni hyrje, prekni Rregullime> Vendndodhje dhe përzgjidhni Përherë";
+"location_sharing_allow_background_location_message" = "Nëse do të donit të tregonit Vendndodhjen tuaj Drejtpërsëdrejti, Superhero Chat-it i duhet hyrje te vendndodhja, kur aplikacioni është në prapaskenë.Që të aktivizoni hyrje, prekni Rregullime> Vendndodhje dhe përzgjidhni Përherë";
 "location_sharing_invalid_power_level_message" = "Që të mund të ndani me të tjerë në këtë dhomë vendndodhje, lypset të keni lejet e duhura.";
 "location_sharing_invalid_power_level_title" = "S’keni leje të tregoni vendndodhje drejtpërsëdrejti";
 
@@ -2516,7 +2516,7 @@
 
 // MARK: User sessions management
 
-// Parameter is the application display name (e.g. "Element")
+// Parameter is the application display name (e.g. "Superhero Chat")
 "user_sessions_default_session_display_name" = "%@ iOS";
 "location_sharing_map_loading_error" = "S’arrihet të ngarkohet hartë\nKy shërbyes Home s’është formësuar të shfaqë harta";
 "space_invite_nav_title" = "Ftesë për në hapësirë";
@@ -2606,7 +2606,7 @@
 "authentication_qr_login_scan_subtitle" = "Vendoseni kodin QR te kuadrati më poshtë";
 "authentication_qr_login_scan_title" = "Skanoni kodin QR";
 "authentication_qr_login_display_step2" = "Përzgjidhni “Hyni me kod QR”";
-"authentication_qr_login_display_step1" = "Hapeni Element-in në pajisjen tuaj tjetër";
+"authentication_qr_login_display_step1" = "Hapeni Superhero Chat-in në pajisjen tuaj tjetër";
 "authentication_qr_login_display_subtitle" = "Skanoni kodin QR më poshtë me pajisjen ku është bërë dalja.";
 "authentication_qr_login_display_title" = "Lidhni një pajisje";
 "authentication_qr_login_start_display_qr" = "Shfaq kod QR te kjo pajisje";
@@ -2614,7 +2614,7 @@
 "authentication_qr_login_start_step4" = "Përzgjidhni “Shfaq kod QR në këtë pajisje”";
 "authentication_qr_login_start_step3" = "Përzgjidhni “Lidhni një pajisje”";
 "authentication_qr_login_start_step2" = "Kaloni te Rregullime -> Siguri & Privatësi";
-"authentication_qr_login_start_step1" = "Hapeni Element-in në pajisjen tuaj tjetër";
+"authentication_qr_login_start_step1" = "Hapeni Superhero Chat-in në pajisjen tuaj tjetër";
 "authentication_qr_login_start_subtitle" = "Përdorni kamerën në këtë pajisje që të skanoni kodin QR të shfaqur në pajisjen tuaj tjetër:";
 "authentication_qr_login_start_title" = "Skanoni kodin QR";
 "authentication_login_with_qr" = "Hyni me kod QR";
@@ -2624,7 +2624,7 @@
 "user_session_rename_session_description" = "Përdorues të tjerë në mesazhe të drejtpërdrejtë dhe dhoma ku jeni në gjendje të shihni një listë të plotë të sesioneve tuaja.\n\nKjo u jep besim atyre se po flasin vërtet me ju, por do të thotë edhe se mund të shohin emrin e sesionit që jepni këtu.";
 "user_session_inactive_session_description" = "Sesione jo aktive janë sesione që keni ca kohë që s’i keni përdorur, por që vazhdojnë të marrin kyçe fshehtëzimi.\n\nHeqja e sesioneve jo aktive përmirëson sigurinë dhe punimin dhe e bëjnë të lehtë për ju të identifikoni, nëse një sesion i ri është i dyshimtë.";
 "user_session_unverified_session_description" = "Sesione të paverifikuar janë sesione ku keni bërë hyrjen me kredencialet tuaja, por që nuk janë ndër-verifikuar.\n\nDuhet ta bëni veçanërisht të qartë se i njihni këto sesione, ngaqë mund të përfaqësojnë përdorim të paautorizuar të llogarisë tuaj.";
-"user_session_verified_session_description" = "Sesione të verifikuar janë ata kudo që përdorni Element-in pasi të keni dhënë frazëkalimin tuaj, ose pasi të keni ripohuar identitetin tuaj përmes një tjetër sesioni të verifikuar.\n\nKjo do të thotë se zotëroni krejt kyçet e nevojshëm për të shkyçur mesazhet tuaj të fshehtëzuar dhe ripohuar përdoruesve të tjerë se e besoni këtë sesion.";
+"user_session_verified_session_description" = "Sesione të verifikuar janë ata kudo që përdorni Superhero Chat-in pasi të keni dhënë frazëkalimin tuaj, ose pasi të keni ripohuar identitetin tuaj përmes një tjetër sesioni të verifikuar.\n\nKjo do të thotë se zotëroni krejt kyçet e nevojshëm për të shkyçur mesazhet tuaj të fshehtëzuar dhe ripohuar përdoruesve të tjerë se e besoni këtë sesion.";
 "user_session_rename_session_title" = "Riemërtim sesionesh";
 "user_session_inactive_session_title" = "Sesione jo aktive";
 "user_session_unverified_session_title" = "Sesione të paverifikuar";
@@ -2715,7 +2715,7 @@
 "key_verification_scan_qr_code_information_other_user" = "Që të verifikoni sesionin e tij, drejtojeni kamerën tuaj drejt kodit QR të shfaqur në pajisjen e tjetrit";
 "key_verification_scan_qr_code_title" = "Skanoni kodin QR";
 "device_verification_self_verify_wait_recover_secrets_additional_help" = "S’hyni dot te një sesion %@ ekzistues?";
-"device_verification_self_verify_open_on_other_device_information" = "Lypset të verifikoni këtë sesion, që të mund të lexoni historikun e mesazheve tuaj të siguruar.\n\nHapeni Element-in në një nga pajisjet tuaja të tjera dhe ndiqni udhëzimet.";
+"device_verification_self_verify_open_on_other_device_information" = "Lypset të verifikoni këtë sesion, që të mund të lexoni historikun e mesazheve tuaj të siguruar.\n\nHapeni Superhero Chat-in në një nga pajisjet tuaja të tjera dhe ndiqni udhëzimet.";
 "device_verification_self_verify_open_on_other_device_title" = "Hapeni %@ në pajisjen tuaj tjetër";
 "room_creation_only_one_email_invite" = "Mund të ftoni vetëm një email në herë";
 "pill_message_in" = "Mesazh te %@";

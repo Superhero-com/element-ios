@@ -431,7 +431,7 @@
 "bug_report_description" = "不具合の内容と状況の説明をお願いします。何をしましたか？何が起こるべきでしたか？実際に起こった事象は何でしょうか？";
 "bug_crash_report_title" = "クラッシュレポート";
 "bug_crash_report_description" = "クラッシュする前にあなたがしていたことを記してください：";
-"bug_report_logs_description" = "開発者が問題を診断するために、このElementのログがバグレポートと一緒に送信されます。上記の文章のみを送信したい場合は、以下のチェックを解除してください：";
+"bug_report_logs_description" = "開発者が問題を診断するために、このSuperhero Chatのログがバグレポートと一緒に送信されます。上記の文章のみを送信したい場合は、以下のチェックを解除してください：";
 "bug_report_send_logs" = "ログを送信";
 "bug_report_send_screenshot" = "スクリーンショットの画像を送信";
 "bug_report_progress_zipping" = "ログを収集しています";
@@ -866,7 +866,7 @@
 "settings_security" = "セキュリティー";
 "settings_three_pids_management_information_part3" = "で設定しましょう。";
 "settings_three_pids_management_information_part2" = "ディスカバリー（発見）";
-"store_full_description" = "Elementは画期的なメッセンジャーアプリです。\n\n1. あなた自身が、プライバシーをコントロールできます。\n2. Matrixネットワークにいる誰とでもコミュニケーションできます。Slackなどのアプリと連携すれば、他のネットワークのユーザーともコミュニケーションを行うことができます。\n3. 広告やデータマイニング、バックドア、ユーザーの囲い込みから、あなたを守ります。\n4. エンドツーエンド暗号化と、クロス署名による認証で、コミュニケーションの安全性を確保します。\n\nElementは分散型（非中央集権型）でオープンソースのメッセンジャーアプリです。他のメッセンジャーアプリとは全く性質が異なります。\n\nElementでは、あなた自身がサーバーを運営することも、サーバーを選ぶこともできます。あなたのデータや会話に関するプライバシーや、誰があなたのデータを所有するかは、あなた自身で定められます。さらに、Elementがアクセスするネットワークは、誰でも参加できるオープンなネットワークなので、Elementのユーザー以外ともコミュニケーションを行うことができます。しかもきわめて安全です。\n\nこれら全ては、ElementがMatrix――オープンな分散型通信の標準規格――で動作するために可能になっています。\n\nElementでは、どのサーバーを使用するかを、ご自身でElementのアプリから決めることができます。\n\n1. 開発者がホストする matrix.org のパブリックサーバーで無料アカウントを取得。\n2. あなた自身がサーバーを運営し、アカウントを管理。\n3. Element Matrix Servicesのホスティングプラットフォームに加入し、カスタムサーバー上でアカウントを作成。\n\nElementを選ぶべき理由：\n\n自分のデータを、自分で所有：データやメッセージを保管する場所を自分で決めることができます。データを所有しコントロールするのは、あなた自身です。データを解析したり、第三者にデータを渡したりする巨大IT企業ではありません。\n\nオープンなメッセージングと、コラボレーション：Matrixネットワーク上の誰とでも、メッセージのやり取りを行うことができます。Elementや他のMatrixアプリだけでなく、Slack、IRC、XMPPのような他のメッセージングシステムのユーザーとも、チャットをすることができます。\n\n非常に安全：本物のエンド・ツー・エンドの暗号化（会話に参加している人だけがメッセージを読み取ることができます）を備えています。また、クロス署名を行えば、会話に参加しているユーザーの端末が、本当にそのユーザーのものであるかを認証することができます。\n\n包括的なコミュニケーション：メッセージのやり取り、音声・ビデオ通話、ファイル共有、画面共有、その他多くの機能、ボット、ウィジェットを提供します。ルームやコミュニティーを立ち上げて連絡を取り合い、タスクをスムーズに成し遂げましょう。\n\nいつでも、どこにいても：アプリをインストールしている全ての端末とウェブ https://app.element.io でメッセージの履歴が同期されるため、どこにいても連絡を取ることができます。";
+"store_full_description" = "Superhero Chatは画期的なメッセンジャーアプリです。\n\n1. あなた自身が、プライバシーをコントロールできます。\n2. Matrixネットワークにいる誰とでもコミュニケーションできます。Slackなどのアプリと連携すれば、他のネットワークのユーザーともコミュニケーションを行うことができます。\n3. 広告やデータマイニング、バックドア、ユーザーの囲い込みから、あなたを守ります。\n4. エンドツーエンド暗号化と、クロス署名による認証で、コミュニケーションの安全性を確保します。\n\nSuperhero Chatは分散型（非中央集権型）でオープンソースのメッセンジャーアプリです。他のメッセンジャーアプリとは全く性質が異なります。\n\nSuperhero Chatでは、あなた自身がサーバーを運営することも、サーバーを選ぶこともできます。あなたのデータや会話に関するプライバシーや、誰があなたのデータを所有するかは、あなた自身で定められます。さらに、Superhero Chatがアクセスするネットワークは、誰でも参加できるオープンなネットワークなので、Superhero Chatのユーザー以外ともコミュニケーションを行うことができます。しかもきわめて安全です。\n\nこれら全ては、Superhero ChatがMatrix――オープンな分散型通信の標準規格――で動作するために可能になっています。\n\nSuperhero Chatでは、どのサーバーを使用するかを、ご自身でSuperhero Chatのアプリから決めることができます。\n\n1. 開発者がホストする matrix.org のパブリックサーバーで無料アカウントを取得。\n2. あなた自身がサーバーを運営し、アカウントを管理。\n3. Superhero Chat Matrix Servicesのホスティングプラットフォームに加入し、カスタムサーバー上でアカウントを作成。\n\nSuperhero Chatを選ぶべき理由：\n\n自分のデータを、自分で所有：データやメッセージを保管する場所を自分で決めることができます。データを所有しコントロールするのは、あなた自身です。データを解析したり、第三者にデータを渡したりする巨大IT企業ではありません。\n\nオープンなメッセージングと、コラボレーション：Matrixネットワーク上の誰とでも、メッセージのやり取りを行うことができます。Superhero Chatや他のMatrixアプリだけでなく、Slack、IRC、XMPPのような他のメッセージングシステムのユーザーとも、チャットをすることができます。\n\n非常に安全：本物のエンド・ツー・エンドの暗号化（会話に参加している人だけがメッセージを読み取ることができます）を備えています。また、クロス署名を行えば、会話に参加しているユーザーの端末が、本当にそのユーザーのものであるかを認証することができます。\n\n包括的なコミュニケーション：メッセージのやり取り、音声・ビデオ通話、ファイル共有、画面共有、その他多くの機能、ボット、ウィジェットを提供します。ルームやコミュニティーを立ち上げて連絡を取り合い、タスクをスムーズに成し遂げましょう。\n\nいつでも、どこにいても：アプリをインストールしている全ての端末とウェブ https://app.element.io でメッセージの履歴が同期されるため、どこにいても連絡を取ることができます。";
 "user_verification_session_details_additional_information_untrusted_other_user" = "ユーザーがこのセッションを信頼するまでは、セッションとの間で送受信されるメッセージには警告が表示されます。また、手動で認証することもできます。";
 "user_verification_session_details_information_untrusted_other_user" = " が新しいセッションを使ってサインインしました：";
 "user_verification_session_details_information_untrusted_current_user" = "このセッションを認証して信頼済としてマークし、暗号化されたメッセージへのアクセスを許可。";
@@ -1622,7 +1622,7 @@
 "space_public_join_rule_detail" = "誰でも参加可能。コミュニティー向け";
 "space_private_join_rule_detail" = "招待者のみ参加可能。個人やチーム向け";
 "onboarding_use_case_title" = "誰と最もよく会話しますか？";
-"onboarding_splash_page_4_message" = "Elementは職場利用にも最適です。世界で最も安全な組織によって信頼されています。";
+"onboarding_splash_page_4_message" = "Superhero Chatは職場利用にも最適です。世界で最も安全な組織によって信頼されています。";
 "onboarding_splash_page_4_title_no_pun" = "あなたのチームのメッセージングに。";
 "onboarding_splash_page_3_message" = "エンドツーエンドで暗号化されており、登録に電話番号は不要です。広告もデータ収集もありません。";
 "onboarding_splash_page_3_title" = "安全なメッセージのやりとり。";
@@ -2060,7 +2060,7 @@
 
 // MARK: User sessions management
 
-// Parameter is the application display name (e.g. "Element")
+// Parameter is the application display name (e.g. "Superhero Chat")
 "user_sessions_default_session_display_name" = "%@ iOS";
 "user_sessions_overview_title" = "セッション";
 "user_sessions_overview_security_recommendations_section_title" = "セキュリティーに関する勧告";
@@ -2511,10 +2511,10 @@
 "contacts_address_book_permission_denied_alert_title" = "連絡先が無効です";
 "password_policy_weak_pwd_error" = "パスワードが弱すぎます。8文字以上で、大文字、小文字、数字、特殊文字をそれぞれ1つずつ含めてください。";
 "authentication_qr_login_loading_signed_in" = "他の端末でサインインしました。";
-"authentication_qr_login_display_step1" = "他の端末でElementを開いてください";
+"authentication_qr_login_display_step1" = "他の端末でSuperhero Chatを開いてください";
 "authentication_qr_login_start_display_qr" = "この端末でQRコードを表示";
 "authentication_qr_login_start_need_alternative" = "別の方法が必要ですか？";
-"authentication_qr_login_start_step1" = "他の端末でElementを開いてください";
+"authentication_qr_login_start_step1" = "他の端末でSuperhero Chatを開いてください";
 "authentication_qr_login_start_subtitle" = "この端末のカメラを使用して、他の端末に表示されているQRコードをスキャンしてください：";
 "authentication_choose_password_not_verified_title" = "電子メールは認証されていません";
 "authentication_server_selection_generic_error" = "このURLでサーバーを発見できません。URLを確認してください。";
@@ -2773,7 +2773,7 @@
 "location_sharing_live_list_item_last_update" = "%@前に更新済";
 "location_sharing_live_list_item_sharing_expired" = "共有の期限が切れました";
 "location_sharing_map_credits_title" = "© Copyright";
-"location_sharing_allow_background_location_message" = "位置情報（ライブ）を共有したい場合、Elementはバックグラウンドで位置情報にアクセスできる必要があります。アクセスを許可するには、「設定」の「位置情報」にある「常に」をタップしてください。";
+"location_sharing_allow_background_location_message" = "位置情報（ライブ）を共有したい場合、Superhero Chatはバックグラウンドで位置情報にアクセスできる必要があります。アクセスを許可するには、「設定」の「位置情報」にある「常に」をタップしてください。";
 "location_sharing_invalid_authorization_error_title" = "%@には位置情報にアクセスする権限がありません。「設定」の「位置情報」からアクセスを有効にできます。";
 "location_sharing_loading_map_error_title" = "%@は地図を読み込めませんでした。後でもう一度やり直してください。";
 "poll_history_no_past_poll_period_text" = "過去%@日に実施されたアンケートはありません。さらにアンケートを読み込み、前の月のアンケートを表示";
