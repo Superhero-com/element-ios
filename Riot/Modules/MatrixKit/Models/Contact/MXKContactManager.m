@@ -39,7 +39,7 @@ NSString *const kMXKContactManagerMatrixPresenceKey = @"kMXKContactManagerMatrix
 
 NSString *const kMXKContactManagerDidInternationalizeNotification = @"kMXKContactManagerDidInternationalizeNotification";
 
-NSString *const MXKContactManagerDataType = @"org.matrix.kit.MXKContactManagerDataType";
+NSString *const MXKContactManagerDataType = @"com.superhero.chat.kit.MXKContactManagerDataType";
 
 @interface MXKContactManager()
 {
@@ -1572,7 +1572,7 @@ NSString *const MXKContactManagerDataType = @"org.matrix.kit.MXKContactManagerDa
 
 #pragma mark - file caches
 
-static NSString *MXKContactManagerDomain = @"org.matrix.MatrixKit.MXKContactManager";
+static NSString *MXKContactManagerDomain = @"com.superhero.chat.MatrixKit.MXKContactManager";
 static NSInteger MXContactManagerEncryptionDelegateNotReady = -1;
 
 static NSString *matrixContactsFileOld = @"matrixContacts";

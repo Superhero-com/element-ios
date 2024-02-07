@@ -41,7 +41,7 @@ targets:
     settings:
       base:
         TEST_TARGET_NAME: RiotSwiftUI
-        PRODUCT_BUNDLE_IDENTIFIER: org.matrix.RiotSwiftUITests$(rfc1034identifier)
+        PRODUCT_BUNDLE_IDENTIFIER: com.superhero.chat.RiotSwiftUITests$(rfc1034identifier)
         SWIFT_OBJC_BRIDGING_HEADER: $(SRCROOT)/RiotSwiftUI/RiotSwiftUI-Bridging-Header.h
         SWIFT_OBJC_INTERFACE_HEADER_NAME: GeneratedInterface-Swift.h
         GENERATE_INFOPLIST_FILE: YES

@@ -32,16 +32,16 @@ enum NotificationPushRuleId: String {
     case keywords = "_keywords"
     // poll started event
     case pollStart = ".m.rule.poll_start"
-    case msc3930pollStart = ".org.matrix.msc3930.rule.poll_start"
+    case msc3930pollStart = ".com.superhero.chat.msc3930.rule.poll_start"
     // poll started event (one to one)
     case oneToOnePollStart = ".m.rule.poll_start_one_to_one"
-    case msc3930oneToOnePollStart = ".org.matrix.msc3930.rule.poll_start_one_to_one"
+    case msc3930oneToOnePollStart = ".com.superhero.chat.msc3930.rule.poll_start_one_to_one"
     // poll ended event
     case pollEnd = ".m.rule.poll_end"
-    case msc3930pollEnd = ".org.matrix.msc3930.rule.poll_end"
+    case msc3930pollEnd = ".com.superhero.chat.msc3930.rule.poll_end"
     // poll ended event (one to one)
     case oneToOnePollEnd = ".m.rule.poll_end_one_to_one"
-    case msc3930oneToOnePollEnd = ".org.matrix.msc3930.rule.poll_end_one_to_one"
+    case msc3930oneToOnePollEnd = ".com.superhero.chat.msc3930.rule.poll_end_one_to_one"
 }
 
 extension NotificationPushRuleId: Identifiable {
