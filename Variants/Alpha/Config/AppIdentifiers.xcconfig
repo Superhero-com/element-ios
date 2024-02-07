@@ -16,7 +16,7 @@
 
 
 // App identity
-BUNDLE_DISPLAY_NAME = Element Alpha
+BUNDLE_DISPLAY_NAME = Superhero Chat Alpha
 BASE_BUNDLE_IDENTIFIER = com.superhero.chat.alpha
 APPLICATION_GROUP_IDENTIFIER = group.im.vector.alpha
 APPLICATION_SCHEME = element
