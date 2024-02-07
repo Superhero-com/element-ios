@@ -18,7 +18,7 @@
 // App identity
 BUNDLE_DISPLAY_NAME = Superhero Chat
 BASE_BUNDLE_IDENTIFIER = com.superhero.chat
-APPLICATION_GROUP_IDENTIFIER = group.im.vector
+APPLICATION_GROUP_IDENTIFIER = group.com.superhero
 APPLICATION_SCHEME = element
 
 // Team
