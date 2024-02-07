@@ -29,15 +29,15 @@ enum RendezvousServiceError: Error {
 
 /// Algorithm name as per MSC3903
 enum RendezvousChannelAlgorithm: String {
-    case ECDH_V1 = "org.matrix.msc3903.rendezvous.v1.curve25519-aes-sha256"
-    case ECDH_V2 = "org.matrix.msc3903.rendezvous.v2.curve25519-aes-sha256"
+    case ECDH_V1 = "com.superhero.chat.msc3903.rendezvous.v1.curve25519-aes-sha256"
+    case ECDH_V2 = "com.superhero.chat.msc3903.rendezvous.v2.curve25519-aes-sha256"
 }
 
 /// Algorithm name as per MSC3906
 enum RendezvousFlow: String {
     /// The v1 value never actually appears in JSON
-    case SETUP_ADDITIONAL_DEVICE_V1 = "org.matrix.msc3906.v1"
-    case SETUP_ADDITIONAL_DEVICE_V2 = "org.matrix.msc3906.setup.additional_device.v2"
+    case SETUP_ADDITIONAL_DEVICE_V1 = "com.superhero.chat.msc3906.v1"
+    case SETUP_ADDITIONAL_DEVICE_V2 = "com.superhero.chat.msc3906.setup.additional_device.v2"
 }
 
 /// Allows communication through a secure channel. Based on MSC3886 and MSC3903
@@ -72,7 +72,7 @@ class RendezvousService {
             }
             
             let fullDetails = RendezvousDetails(algorithm: algorithm.rawValue,
-                                                transport: RendezvousTransportDetails(type: "org.matrix.msc3886.http.v1",
+                                                transport: RendezvousTransportDetails(type: "com.superhero.chat.msc3886.http.v1",
                                                                                       uri: rendezvousURL.absoluteString),
                                                 key: publicKeyString)
             return .success(fullDetails)

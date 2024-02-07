@@ -3092,7 +3092,7 @@ Bug fix:
  * Xcode11: Fix status bar styles for many screens (PR #3077).
  * Xcode11: Replace deprecated MPMoviePlayerController with AVPlayerViewController (PR #3092).
  * Xcode11: Show AuthenticationViewController fullscreen (PR #3093).
- * Xcode11: Fix font used for `org.matrix.custom.html`messages in timeline (#3241).
+ * Xcode11: Fix font used for `com.superhero.chat.custom.html`messages in timeline (#3241).
  * Settings: New phone number is invisible in dark theme (#3218).
  * SettingsViewController: Fix notifications on this device setting to use APNS pusher (#3291).
  * Xcode11: Fix decryption on notifications when the key is not present (#3295).
@@ -4453,7 +4453,7 @@ Improvements:
  * Room preview: Show a preview of messages.
  * Room preview: Improve header in landscape
  * Add missing slash commands: /invite, /part and /topic #223.
- * Add Markdown typing support and display of "org.matrix.custom.html" messages body #403
+ * Add Markdown typing support and display of "com.superhero.chat.custom.html" messages body #403
  * Room search: search result includes the search pattern when it corresponds to a valid room alias or id #328
  * Room search: Room preview is used when the user selects a public room that he did not join yet #329.
  * Rooms global search: Refresh the current search results when view will appear.

@@ -173,7 +173,7 @@ class QRLoginService: NSObject, QRLoginServiceProtocol {
         MXLog.debug("[QRLoginService] processQRLoginCode: \(code)")
 
         // we check these first so that we can show a more specific error message
-        guard code.rendezvous.transport?.type == "org.matrix.msc3886.http.v1",
+        guard code.rendezvous.transport?.type == "com.superhero.chat.msc3886.http.v1",
               let algorithm = RendezvousChannelAlgorithm(rawValue: code.rendezvous.algorithm) else {
             MXLog.error("[QRLoginService] Unsupported algorithm or transport")
             state = .failed(error: .deviceNotSupported)

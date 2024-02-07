@@ -110,7 +110,7 @@ struct QRLoginRendezvousPayload: Codable {
     
     // swiftformat:disable:next redundantBackticks
     enum `Protocol`: String, Codable {
-        case loginToken = "org.matrix.msc3906.login_token"
+        case loginToken = "com.superhero.chat.msc3906.login_token"
     }
     
     enum FailureReason: String, Codable {

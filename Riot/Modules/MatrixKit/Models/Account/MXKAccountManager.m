@@ -30,7 +30,7 @@ static NSString *const kMXKAccountsKey = @"accountsV2";
 NSString *const kMXKAccountManagerDidAddAccountNotification = @"kMXKAccountManagerDidAddAccountNotification";
 NSString *const kMXKAccountManagerDidRemoveAccountNotification = @"kMXKAccountManagerDidRemoveAccountNotification";
 NSString *const kMXKAccountManagerDidSoftlogoutAccountNotification = @"kMXKAccountManagerDidSoftlogoutAccountNotification";
-NSString *const MXKAccountManagerDataType = @"org.matrix.kit.MXKAccountManagerDataType";
+NSString *const MXKAccountManagerDataType = @"com.superhero.chat.kit.MXKAccountManagerDataType";
 
 @interface MXKAccountManager()
 {
