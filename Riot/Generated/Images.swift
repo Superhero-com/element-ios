@@ -155,6 +155,7 @@ internal class Asset: NSObject {
     internal static let allChatsEmptySpaceArtwork = ImageAsset(name: "all_chats_empty_space_artwork")
     internal static let allChatsEmptySpaceArtworkDark = ImageAsset(name: "all_chats_empty_space_artwork_dark")
     internal static let allChatsSpacesIcon = ImageAsset(name: "all_chats_spaces_icon")
+    internal static let background = ImageAsset(name: "background")
     internal static let chatimg = ImageAsset(name: "chatimg")
     internal static let dollar = ImageAsset(name: "dollar")
     internal static let homeEmptyScreenArtwork = ImageAsset(name: "home_empty_screen_artwork")
