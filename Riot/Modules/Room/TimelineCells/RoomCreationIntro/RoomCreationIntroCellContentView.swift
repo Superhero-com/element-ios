@@ -117,10 +117,10 @@ final class RoomCreationIntroCellContentView: UIView, NibLoadable, Themable {
             // Set the attributed string to the UILabel
             self.titleLabel.attributedText = attributedString
         } else if let range = viewData.roomDisplayName.range(of: "$") {
-            let roomDisplayNameWithoutDollar = viewData.roomDisplayName.replacingOccurrences(of: "$", with: "")
+            let roomDisplayNameWithoutPrefix = viewData.roomDisplayName.replacingOccurrences(of: "$", with: "")
             
             let imageAttachment = NSTextAttachment()
-            imageAttachment.image = UIImage(named: "dollar")?.resize(targetSize: CGSize(width: 20, height: 20))
+            imageAttachment.image = UIImage(named: "community_room_icon")?.resize(targetSize: CGSize(width: 20, height: 20))
             let imageSize = imageAttachment.image?.size ?? CGSize(width: 20, height: 20) // Set a default size if the image is not available
              let yOffset = (titleLabel.font.capHeight - imageSize.height) / 2.0
              imageAttachment.bounds = CGRect(x: 0, y: yOffset, width: imageSize.width, height: imageSize.height)
@@ -132,7 +132,7 @@ final class RoomCreationIntroCellContentView: UIView, NibLoadable, Themable {
             let spaceString = NSAttributedString(string: " ") // Adjust the space as needed
 
             // Append the text to the attributed string
-            let textString = NSAttributedString(string: roomDisplayNameWithoutDollar)
+            let textString = NSAttributedString(string: roomDisplayNameWithoutPrefix)
 
             // Append the space, text, and space again to the attributed string
             attributedString.append(spaceString)

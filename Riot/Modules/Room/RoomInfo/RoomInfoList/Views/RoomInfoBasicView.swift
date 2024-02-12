@@ -84,8 +84,8 @@ class RoomInfoBasicView: UIView {
         }
 
         // Replace $ with a second image
-        if let dollarRange = cleanedImg?.range(of: "$") {
-            cleanedImg?.replaceSubrange(dollarRange, with: "")
+        if let communityRoomIndex = cleanedImg?.range(of: "$") {
+            cleanedImg?.replaceSubrange(communityRoomIndex, with: "")
         }
         let avatarImage = AvatarGenerator.generateAvatar(forMatrixItem: viewData.roomId, withDisplayName: cleanedImg)
         
@@ -130,7 +130,7 @@ class RoomInfoBasicView: UIView {
         // Replace $ with an image, only if [TG] is not present at the beginning
         if !viewData.roomDisplayName!.hasPrefix("[TG]"), let range = viewData.roomDisplayName!.range(of: "$") {
             let imageAttachment = NSTextAttachment()
-            imageAttachment.image = UIImage(named: "dollar")
+            imageAttachment.image = UIImage(named: "community_room_icon")
             
             // Adjust the bounds and baselineOffset for proper alignment
             let imageSize = imageAttachment.image?.size ?? CGSize(width: 20, height: 20) // Set a default size if the image is not available
