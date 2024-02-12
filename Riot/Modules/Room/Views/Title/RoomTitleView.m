@@ -112,7 +112,7 @@
 
         // Replace [TG] with an image
         NSString *replacementText = @"[TG] ";
-        UIImage *image = [UIImage imageNamed:@"chatimg"];
+        UIImage *image = [UIImage imageNamed:@"token_gated_room_icon"];
         NSTextAttachment *textAttachment = [[NSTextAttachment alloc] init];
         textAttachment.image = image;
         NSAttributedString *imageString = [NSAttributedString attributedStringWithAttachment:textAttachment];
@@ -176,7 +176,7 @@
 
         // Replace [TG] with an image
         NSString *replacementText = @"[TG] ";
-        UIImage *image = [UIImage imageNamed:@"chatimg"];
+        UIImage *image = [UIImage imageNamed:@"token_gated_room_icon"];
         NSTextAttachment *textAttachment = [[NSTextAttachment alloc] init];
         textAttachment.image = image;
         NSAttributedString *imageString = [NSAttributedString attributedStringWithAttachment:textAttachment];

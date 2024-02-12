@@ -92,7 +92,7 @@
             text = [text stringByReplacingOccurrencesOfString:placeholder withString:@""];
 
             // Assuming image is a UIImage you want to set along with the text
-            UIImage *originalImage = [UIImage imageNamed:@"chatimg"];
+            UIImage *originalImage = [UIImage imageNamed:@"token_gated_room_icon"];
 
             // Adjust the size of the image
             CGSize imageSize = CGSizeMake(originalImage.size.width * 0.8, originalImage.size.height * 0.8); // Adjust the scaling factor as needed

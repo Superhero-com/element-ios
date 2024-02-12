@@ -107,7 +107,7 @@ class RoomInfoBasicView: UIView {
         // Replace [TG] with an image
         if let range = viewData.roomDisplayName!.range(of: "[TG] ") {
             let imageAttachment = NSTextAttachment()
-            imageAttachment.image = UIImage(named: "chatimg")
+            imageAttachment.image = UIImage(named: "token_gated_room_icon")
             
             // Adjust the bounds and baselineOffset for proper alignment
             let imageSize = imageAttachment.image?.size ?? CGSize(width: 20, height: 20) // Set a default size if the image is not available
