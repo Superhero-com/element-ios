@@ -94,7 +94,7 @@ final class RoomCreationIntroCellContentView: UIView, NibLoadable, Themable {
             let roomDisplayNameWithoutTG = viewData.roomDisplayName.replacingOccurrences(of: "[TG] ", with: "")
             
             let imageAttachment = NSTextAttachment()
-            imageAttachment.image = UIImage(named: "chatimg")?.resize(targetSize: CGSize(width: 20, height: 20))
+            imageAttachment.image = UIImage(named: "token_gated_room_icon")?.resize(targetSize: CGSize(width: 20, height: 20))
 
             let imageSize = imageAttachment.image?.size ?? CGSize(width: 20, height: 20) // Set a default size if the image is not available
              let yOffset = (titleLabel.font.capHeight - imageSize.height) / 2.0

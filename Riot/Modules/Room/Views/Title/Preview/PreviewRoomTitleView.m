@@ -158,7 +158,7 @@
             NSString *roomName = self.roomPreviewData.roomName;
             if (roomName && ([roomName hasPrefix:@"[TG] "])) {
                 // Remove [TG] or $ prefix
-                _iconImage.image = [UIImage imageNamed:@"chatimg"];
+                _iconImage.image = [UIImage imageNamed:@"token_gated_room_icon"];
                 roomName = [roomName substringFromIndex:4];
             }
                 
