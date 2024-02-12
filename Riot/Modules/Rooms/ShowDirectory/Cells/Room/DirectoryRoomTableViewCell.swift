@@ -70,7 +70,7 @@ class DirectoryRoomTableViewCell: UITableViewCell {
         if let range = viewModel.title!.range(of: "$") {
             if range.lowerBound == viewModel.title!.startIndex {
                 let imageAttachment = NSTextAttachment()
-                imageAttachment.image = UIImage(named: "dollar")?.resize(targetSize: CGSize(width: 15, height: 15))
+                imageAttachment.image = UIImage(named: "community_room_icon")?.resize(targetSize: CGSize(width: 15, height: 15))
                 
                 // Adjust the bounds and baselineOffset for proper alignment
                 let imageSize = imageAttachment.image?.size ?? CGSize(width: 20, height: 20) // Set a default size if image is not available

@@ -37,12 +37,12 @@ extension MXKImageView {
             let sanitizedDisplayName = String(displayName.dropFirst(1))
             displayNameUser = sanitizedDisplayName
             let avatarImage = AvatarGenerator.generateAvatar(forMatrixItem: roomId, withDisplayName: sanitizedDisplayName)
-            let avatarImageDollar = AvatarGenerator.generateAvatar(forMatrixItem: roomId, withDisplayName: sanitizedDisplayName)
+            let communityRoomIcon = AvatarGenerator.generateAvatar(forMatrixItem: roomId, withDisplayName: sanitizedDisplayName)
             if let avatarUrl = url {
                 self.enableInMemoryCache = true
                 MXLog.debug("Setting room avatar with URL: \(avatarUrl), roomId: \(roomId), displayName: \(displayName), mediaManager:\(mediaManager)")
 
-                self.setImageURI(avatarUrl, withType: nil, andImageOrientation: .up, toFitViewSize: self.frame.size, with: MXThumbnailingMethodCrop, previewImage: avatarImageDollar, mediaManager: mediaManager)
+                self.setImageURI(avatarUrl, withType: nil, andImageOrientation: .up, toFitViewSize: self.frame.size, with: MXThumbnailingMethodCrop, previewImage: communityRoomIcon, mediaManager: mediaManager)
             } else {
                 self.image = avatarImage
             }

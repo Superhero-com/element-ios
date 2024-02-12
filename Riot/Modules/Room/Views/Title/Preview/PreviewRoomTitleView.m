@@ -163,7 +163,7 @@
             }
                 
             if (roomName && ([roomName hasPrefix:@"$"])) {
-                _iconImage.image = [UIImage imageNamed:@"dollar"];
+                _iconImage.image = [UIImage imageNamed:@"community_room_icon"];
                 roomName = [roomName substringToIndex:1];
             }
             

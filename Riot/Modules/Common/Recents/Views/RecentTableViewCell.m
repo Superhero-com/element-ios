@@ -85,7 +85,7 @@
     {
         NSString *text = roomCellData.roomDisplayname;
         NSString *placeholder = @"[TG]";
-        NSString *dollarPlaceHolder = @"$";
+        NSString *communityRoomPrefix = @"$";
 
         if ([text containsString:placeholder]) {
             // Replace "[TG]" with a placeholder character (e.g., a space) to maintain spacing
@@ -128,12 +128,12 @@
 
             // Set the attributed string to the UILabel
             self.roomTitle.attributedText = attributedString;
-        } else if ([text containsString:dollarPlaceHolder]) {
+        } else if ([text containsString:communityRoomPrefix]) {
             // Replace "[TG]" with a placeholder character (e.g., a space) to maintain spacing
-            text = [text stringByReplacingOccurrencesOfString:dollarPlaceHolder withString:@" "];
+            text = [text stringByReplacingOccurrencesOfString:communityRoomPrefix withString:@" "];
 
             // Assuming image is a UIImage you want to set along with the text
-            UIImage *originalImage = [UIImage imageNamed:@"dollar"];
+            UIImage *originalImage = [UIImage imageNamed:@"community_room_icon"];
 
             // Adjust the size of the image
             CGSize imageSize = CGSizeMake(originalImage.size.width * 0.8, originalImage.size.height * 0.8); // Adjust the scaling factor as needed
