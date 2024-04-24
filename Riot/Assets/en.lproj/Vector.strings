@@ -99,16 +99,19 @@
 "accessibility_selected" = "selected";
 
 // MARK: Onboarding
+"welcome_to" = "Welcome to";
+"superhero_chat" = "Superhero Chat";
 "onboarding_splash_register_button_title" = "Create account";
 "onboarding_splash_login_button_title" = "I already have an account";
-"onboarding_splash_page_1_title" = "Own your conversations.";
-"onboarding_splash_page_1_message" = "Secure and independent communication that gives you the same level of privacy as a face-to-face conversation in your own home.";
-"onboarding_splash_page_2_title" = "You’re in control.";
-"onboarding_splash_page_2_message" = "Choose where your conversations are kept, giving you control and independence. Connected via Matrix.";
-"onboarding_splash_page_3_title" = "Secure messaging.";
-"onboarding_splash_page_3_message" = "End-to-end encrypted and no phone number required. No ads or datamining.";
-"onboarding_splash_page_4_title_no_pun" = "Messaging for your team.";
-"onboarding_splash_page_4_message" = "Element is also great for the workplace. It’s trusted by the world’s most secure organisations.";
+"onboarding_splash_page_1_title" = "Meet the bots";
+"onboarding_splash_page_1_message" = "It’s already cool with end-to-end encrypted messaging, and unlimited voice and video calls. But there is much more to discover.
+Meet Superhero Wallet Bot and its mate bots loaded with DeFi features.";
+"onboarding_splash_page_2_title" = "You are in control";
+"onboarding_splash_page_2_message" = "Enter the world of Web3 decentralized apps. Connect Superhero multi-blockchain wallet and take full ownership over your data and transactions.";
+"onboarding_splash_page_3_title" = "DAO communities";
+"onboarding_splash_page_3_message" = "Participate in governance and bonding curve token sales and launch your own token-gated DAO communities.";
+"onboarding_splash_page_4_title_no_pun" = "Token-gated rooms";
+"onboarding_splash_page_4_message" = "Connect your wallet to access token-gated chat rooms. Get AEX-9 tokens to participate in the discussion or create your own token-gated chat spaces.";
 
 "onboarding_use_case_title" = "Who will you chat to the most?";
 "onboarding_use_case_message" = "We’ll help you get connected";

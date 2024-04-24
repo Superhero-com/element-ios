@@ -4563,35 +4563,35 @@ public class VectorL10n: NSObject {
   public static var onboardingSplashLoginButtonTitle: String { 
     return VectorL10n.tr("Vector", "onboarding_splash_login_button_title") 
   }
-  /// Secure and independent communication that gives you the same level of privacy as a face-to-face conversation in your own home.
+  /// It’s already cool with end-to-end encrypted messaging, and unlimited voice and video calls. But there is much more to discover.\nMeet Superhero Wallet Bot and its mate bots loaded with DeFi features.
   public static var onboardingSplashPage1Message: String { 
     return VectorL10n.tr("Vector", "onboarding_splash_page_1_message") 
   }
-  /// Own your conversations.
+  /// Meet the bots
   public static var onboardingSplashPage1Title: String { 
     return VectorL10n.tr("Vector", "onboarding_splash_page_1_title") 
   }
-  /// Choose where your conversations are kept, giving you control and independence. Connected via Matrix.
+  /// Enter the world of Web3 decentralized apps. Connect Superhero multi-blockchain wallet and take full ownership over your data and transactions.
   public static var onboardingSplashPage2Message: String { 
     return VectorL10n.tr("Vector", "onboarding_splash_page_2_message") 
   }
-  /// You’re in control.
+  /// You are in control
   public static var onboardingSplashPage2Title: String { 
     return VectorL10n.tr("Vector", "onboarding_splash_page_2_title") 
   }
-  /// End-to-end encrypted and no phone number required. No ads or datamining.
+  /// Participate in governance and bonding curve token sales and launch your own token-gated DAO communities.
   public static var onboardingSplashPage3Message: String { 
     return VectorL10n.tr("Vector", "onboarding_splash_page_3_message") 
   }
-  /// Secure messaging.
+  /// DAO communities
   public static var onboardingSplashPage3Title: String { 
     return VectorL10n.tr("Vector", "onboarding_splash_page_3_title") 
   }
-  /// Element is also great for the workplace. It’s trusted by the world’s most secure organisations.
+  /// Connect your wallet to access token-gated chat rooms. Get AEX-9 tokens to participate in the discussion or create your own token-gated chat spaces.
   public static var onboardingSplashPage4Message: String { 
     return VectorL10n.tr("Vector", "onboarding_splash_page_4_message") 
   }
-  /// Messaging for your team.
+  /// Token-gated rooms
   public static var onboardingSplashPage4TitleNoPun: String { 
     return VectorL10n.tr("Vector", "onboarding_splash_page_4_title_no_pun") 
   }
@@ -8731,6 +8731,10 @@ public class VectorL10n: NSObject {
   public static var suggest: String { 
     return VectorL10n.tr("Vector", "suggest") 
   }
+  /// Superhero Chat
+  public static var superheroChat: String { 
+    return VectorL10n.tr("Vector", "superhero_chat") 
+  }
   /// Switch
   public static var `switch`: String { 
     return VectorL10n.tr("Vector", "switch") 
@@ -9474,6 +9478,10 @@ public class VectorL10n: NSObject {
   /// Warning
   public static var warning: String { 
     return VectorL10n.tr("Vector", "warning") 
+  }
+  /// Welcome to
+  public static var welcomeTo: String { 
+    return VectorL10n.tr("Vector", "welcome_to") 
   }
   /// Widget creation has failed
   public static var widgetCreationFailure: String { 

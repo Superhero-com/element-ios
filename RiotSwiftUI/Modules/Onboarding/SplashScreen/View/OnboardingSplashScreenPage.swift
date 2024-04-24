@@ -32,6 +32,21 @@ struct OnboardingSplashScreenPage: View {
     
     var body: some View {
         VStack {
+            Spacer()
+                .frame(height: 30)
+            
+            VStack{
+                Text(VectorL10n.welcomeTo)
+                    .font(theme.fonts.title2B)
+                    .foregroundColor(theme.colors.vibrantGreen)
+                    .multilineTextAlignment(.leading)
+                
+                Text(VectorL10n.superheroChat)
+                    .font(theme.fonts.largeTitleB)
+                    .foregroundColor(theme.colors.vibrantGreen)
+                    .multilineTextAlignment(.leading)
+            }
+            
             Image(theme.isDark ? content.darkImage.name : content.image.name)
                 .resizable()
                 .scaledToFit()
@@ -40,15 +55,19 @@ struct OnboardingSplashScreenPage: View {
                 // iOS 15, 310 seems fine on all supported screen widths 🤞.
                 .padding(20)
                 .accessibilityHidden(true)
+
+
+
             
-            VStack(spacing: 8) {
-                OnboardingTintedFullStopText(content.title)
+            VStack(alignment: .leading, spacing: 8) {
+                Text(content.title)
                     .font(theme.fonts.title2B)
                     .foregroundColor(theme.colors.primaryContent)
+                    .multilineTextAlignment(.leading)
                 Text(content.message)
                     .font(theme.fonts.body)
                     .foregroundColor(theme.colors.secondaryContent)
-                    .multilineTextAlignment(.center)
+                    .multilineTextAlignment(.leading)
             }
             .fixedSize(horizontal: false, vertical: true)
         }

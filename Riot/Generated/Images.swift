@@ -174,6 +174,7 @@ internal class Asset: NSObject {
     internal static let cameraStop = ImageAsset(name: "camera_stop")
     internal static let cameraVideoCapture = ImageAsset(name: "camera_video_capture")
     internal static let videoIcon = ImageAsset(name: "video_icon")
+    internal static let loading1 = ImageAsset(name: "loading-1")
     internal static let onboardingAvatarCamera = ImageAsset(name: "onboarding_avatar_camera")
     internal static let onboardingAvatarEdit = ImageAsset(name: "onboarding_avatar_edit")
     internal static let onboardingCelebrationIcon = ImageAsset(name: "onboarding_celebration_icon")
