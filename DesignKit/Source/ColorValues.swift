@@ -50,6 +50,8 @@ public struct ColorValues: Colors {
     
     public let vibrantGreen: UIColor
     
+    public let cGreen: UIColor
+
     public let links: UIColor
     
     public let namesAndAvatars: [UIColor]

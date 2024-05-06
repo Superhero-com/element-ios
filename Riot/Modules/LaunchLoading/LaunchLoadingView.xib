@@ -15,8 +15,12 @@
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
                 <view contentMode="scaleAspectFit" placeholderIntrinsicWidth="130" placeholderIntrinsicHeight="130" insetsLayoutMarginsFromSafeArea="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3KG-IR-FPV" customClass="ElementView" customModule="Element" customModuleProvider="target">
-                    <rect key="frame" x="95" y="219" width="130" height="130"/>
+                    <rect key="frame" x="35" y="228.5" width="250" height="111"/>
                     <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="250" id="OKv-80-yic"/>
+                        <constraint firstAttribute="height" constant="111" id="i0I-7d-mAl"/>
+                    </constraints>
                 </view>
                 <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="hme-ss-nFP">
                     <rect key="frame" x="20" y="472" width="280" height="36"/>
@@ -39,12 +43,12 @@
             </subviews>
             <color key="backgroundColor" systemColor="systemBackgroundColor"/>
             <constraints>
+                <constraint firstItem="3KG-IR-FPV" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="3nC-xt-gHQ"/>
                 <constraint firstAttribute="bottom" secondItem="hme-ss-nFP" secondAttribute="bottom" constant="60" id="Ayr-Nh-R8M"/>
                 <constraint firstItem="hme-ss-nFP" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="iN0-l3-epB" secondAttribute="leading" constant="20" id="Ecw-cR-GaE"/>
                 <constraint firstItem="hme-ss-nFP" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="KSs-HF-BlI"/>
                 <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="hme-ss-nFP" secondAttribute="trailing" constant="20" id="U6l-o1-IL3"/>
-                <constraint firstItem="3KG-IR-FPV" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="ig4-YX-FoT"/>
-                <constraint firstItem="3KG-IR-FPV" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="r9K-7c-fjh"/>
+                <constraint firstItem="3KG-IR-FPV" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="ViZ-lq-WEq"/>
             </constraints>
             <connections>
                 <outlet property="animationView" destination="3KG-IR-FPV" id="Are-fn-laY"/>
@@ -52,7 +56,7 @@
                 <outlet property="progressView" destination="DEk-Va-xdT" id="PCI-Vi-Zyg"/>
                 <outlet property="statusLabel" destination="wzS-bN-Pht" id="Mj2-rn-i5x"/>
             </connections>
-            <point key="canvasLocation" x="136.875" y="132.5"/>
+            <point key="canvasLocation" x="136.875" y="132.04225352112675"/>
         </view>
     </objects>
     <designables>
@@ -65,7 +69,7 @@
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
         <systemColor name="systemGrayColor">
-            <color red="0.5568627451" green="0.5568627451" blue="0.57647058819999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.55686274509803924" green="0.55686274509803924" blue="0.57647058823529407" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>

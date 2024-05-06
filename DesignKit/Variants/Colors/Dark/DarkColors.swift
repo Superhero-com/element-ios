@@ -35,6 +35,7 @@ public class DarkColors {
         background: UIColor(rgb:0x15191E),
         ems: UIColor(rgb: 0x7E69FF), 
         vibrantGreen: UIColor(rgb: 0x03E3AE),
+        cGreen:UIColor(rgb: 0x1ecbac),
         links: UIColor(rgb: 0x0086E6),
         namesAndAvatars: [
             UIColor(rgb:0x368BD6),

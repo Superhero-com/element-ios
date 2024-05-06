@@ -170,7 +170,15 @@
             // Set the attributed string to the UILabel
             self.roomTitle.attributedText = attributedString;
         } else {
+            if([text isEqualToString: @"communitybot"]){
+               // [self.trustedBoatView setHidden
+                [self.trustedBoatView setHidden:NO];
+            }
+            else{
+                [self.trustedBoatView setHidden:YES];
+            }
             self.roomTitle.text = text;
+           
         }
 
       

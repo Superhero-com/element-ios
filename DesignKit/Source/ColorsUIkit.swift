@@ -47,6 +47,8 @@ import UIKit
     public let background: UIColor
     
     public let links: UIColor
+    
+    public let cGreen: UIColor
 
     public let namesAndAvatars: [UIColor]
     
@@ -65,6 +67,7 @@ import UIKit
         background = values.background
         links = values.links
         namesAndAvatars = values.namesAndAvatars
+        cGreen = values.cGreen
     }
 }
 

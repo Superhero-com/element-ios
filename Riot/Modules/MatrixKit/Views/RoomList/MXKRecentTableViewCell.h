@@ -14,6 +14,8 @@
  limitations under the License.
  */
 
+@class TrustedBoatView;
+
 #import "MXKTableViewCell.h"
 
 #import "MXKCellRendering.h"
@@ -35,5 +37,6 @@
 @property (weak, nonatomic) IBOutlet UILabel *roomTitle;
 @property (weak, nonatomic) IBOutlet UILabel *lastEventDescription;
 @property (weak, nonatomic) IBOutlet UILabel *lastEventDate;
+@property (weak, nonatomic) IBOutlet TrustedBoatView *trustedBoatView;
 
 @end

@@ -377,13 +377,32 @@ class AllChatsViewController: HomeViewController {
         
         initialScrollPosition = scrollPosition(of: scrollView)
     }
+    
+    
+    func setTitleView() {
+        guard let height = navigationController?.navigationBar.frame.height else { return }
+        var alpha = 44/height
+        alpha = alpha > 0.75 ? alpha : 0
+        let imageView = UIImageView(frame: CGRect(x: 0, y: 0, width: 24*alpha, height: 15*alpha))
+        imageView.contentMode = .scaleAspectFit
+        
+        var image = ThemeService.shared().isCurrentThemeDark() ? UIImage(named: "superheroLogoDark") : UIImage(named: "superheroLogoLight")
+        image = image?.alpha(alpha)
+        imageView.image = image
+        
+        navigationItem.titleView = imageView
+    }
 
     override func scrollViewDidScroll(_ scrollView: UIScrollView) {
         super.scrollViewDidScroll(scrollView)
-
+        
+        setTitleView()
+        
         guard scrollView == recentsTableView else {
+            
             return
         }
+        
         
         let scrollPosition = scrollPosition(of: scrollView)
         
@@ -496,6 +515,8 @@ class AllChatsViewController: HomeViewController {
     private func updateUI() {
         let currentSpace = self.dataSource?.currentSpace
         self.title = currentSpace?.summary?.displayName ?? VectorL10n.allChatsTitle
+        
+        
         
         setupEditOptions()
         updateToolbar(with: editActionProvider.updateMenu(with: mainSession, parentSpace: currentSpace, completion: { [weak self] menu in
