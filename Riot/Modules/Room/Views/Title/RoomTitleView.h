@@ -20,6 +20,7 @@
 
 // We add here a protocol to handle tap gesture in title view.
 @class RoomTitleView;
+@class TrustedBoatView;
 @class PresenceIndicatorView;
 @protocol PresenceIndicatorViewDelegate;
 @protocol RoomTitleViewTapGestureDelegate <NSObject>
@@ -37,6 +38,7 @@
 @interface RoomTitleView : MXKRoomTitleView <UIGestureRecognizerDelegate, PresenceIndicatorViewDelegate>
 
 @property (weak, nonatomic) IBOutlet UIView *titleMask;
+@property (weak, nonatomic) IBOutlet TrustedBoatView *trustedBoatView;
 @property (weak, nonatomic) IBOutlet UIImageView *badgeImageView;
 @property (weak, nonatomic) IBOutlet MXKImageView *pictureView;
 @property (weak, nonatomic) IBOutlet PresenceIndicatorView *presenceIndicatorView;

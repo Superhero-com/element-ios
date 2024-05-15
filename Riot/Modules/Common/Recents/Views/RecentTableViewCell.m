@@ -15,6 +15,8 @@
  limitations under the License.
  */
 
+
+
 #import "RecentTableViewCell.h"
 
 #import "AvatarGenerator.h"
@@ -28,7 +30,11 @@
 #import "MXRoomSummary+Riot.h"
 #import "UIKit/UIKit.h"
 
+@class AppShared;
+
 @implementation RecentTableViewCell
+
+
 
 #pragma mark - Class methods
 
@@ -170,7 +176,10 @@
             // Set the attributed string to the UILabel
             self.roomTitle.attributedText = attributedString;
         } else {
-            if([text isEqualToString: @"communitybot"]){
+            AppShared *appShared = [AppShared shared];
+            NSArray *arr = [appShared getTrustedArr];
+        
+            if([arr containsObject:text]){
                // [self.trustedBoatView setHidden
                 [self.trustedBoatView setHidden:NO];
             }

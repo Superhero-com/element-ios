@@ -94,6 +94,7 @@
         self.displayNameTextField.enabled = NO;
     }
     self.displayNameTextField.hidden = NO;
+
 }
 
 - (void)destroy

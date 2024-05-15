@@ -29,6 +29,7 @@
 }
 
 @property (weak, nonatomic) IBOutlet MXKImageView *thumbnailView;
+@property (weak, nonatomic) IBOutlet TrustedBoatView *trustedBoatView;
 @property (weak, nonatomic) IBOutlet UILabel *contactDisplayNameLabel;
 @property (weak, nonatomic) IBOutlet UILabel *powerLevelLabel;
 @property (weak, nonatomic) IBOutlet UILabel *contactInformationLabel;

@@ -37,6 +37,7 @@ class RoomInfoBasicView: UIView {
     }
     @IBOutlet private weak var roomNameStackView: UIStackView!
     @IBOutlet private weak var roomNameLabel: UILabel!
+    @IBOutlet private weak var trustedBoatView: TrustedBoatView!
     @IBOutlet private weak var roomAddressLabel: UILabel!
     @IBOutlet private weak var topicContainerView: UIView!
     @IBOutlet private weak var topicTitleLabel: UILabel! {
@@ -151,6 +152,14 @@ class RoomInfoBasicView: UIView {
         }
 
         roomNameLabel.attributedText = attributedString
+        
+        let arrTrustedObject = AppShared.shared.getTrustedArr()
+        if arrTrustedObject.contains(viewData.roomDisplayName!){
+            trustedBoatView.isHidden = false
+        }
+        else{
+            trustedBoatView.isHidden = true
+        }
         
         roomAddressLabel.text = viewData.mainRoomAlias
         roomAddressLabel.isHidden = roomAddressLabel.text?.isEmpty ?? true

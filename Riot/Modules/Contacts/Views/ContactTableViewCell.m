@@ -246,6 +246,18 @@
 {
     self.contactDisplayNameLabel.text = contact.displayName;
     
+    
+    AppShared *shared = [AppShared shared];
+    NSArray *arr = [shared getTrustedArr];
+    NSString *roomName = contact.displayName;
+    if([arr containsObject:roomName]){
+        [self.trustedBoatView setHidden:NO];
+    }
+    else{
+        [self.trustedBoatView setHidden:YES];
+    }
+
+    
     // Check whether the matrix identifier must be displayed.
     if (_showMatrixIdInDisplayName)
     {
