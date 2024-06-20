@@ -22,7 +22,7 @@ import SwiftUI
 /// Light theme colors.
 public class LightColors {
     private static let values = ColorValues(
-        accent: UIColor(rgb:0x0DBD8B),
+        accent: UIColor(rgb:0x6147FF),
         alert: UIColor(rgb:0xFF4B55),
         primaryContent: UIColor(rgb:0x17191C),
         secondaryContent: UIColor(rgb:0x737D8C),
@@ -35,6 +35,8 @@ public class LightColors {
         navigation: UIColor(rgb:0xF4F6FA),
         background: UIColor(rgb:0xFFFFFF),
         ems: UIColor(rgb: 0x7E69FF),
+        vibrantGreen: UIColor(rgb: 0x03E3AE),
+        cGreen:UIColor(rgb: 0x1ecbac),
         links: UIColor(rgb: 0x0086E6),
         namesAndAvatars: [
             UIColor(rgb:0x368BD6),

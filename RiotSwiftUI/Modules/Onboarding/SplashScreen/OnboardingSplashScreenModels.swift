@@ -64,7 +64,9 @@ struct OnboardingSplashScreenViewState: BindableState, CustomDebugStringConverti
     init() {
         // The pun doesn't translate, so we only use it for English.
         let locale = Locale.current
-        let page4Title = locale.identifier.hasPrefix("en") ? "Cut the slack from teams." : VectorL10n.onboardingSplashPage4TitleNoPun
+        /*let page4Title = locale.identifier.hasPrefix("en") ? "Cut the slack from teams." : VectorL10n.onboardingSplashPage4TitleNoPun*/
+        
+        let page4Title = VectorL10n.onboardingSplashPage4TitleNoPun
         
         content = [
             OnboardingSplashScreenPageContent(title: VectorL10n.onboardingSplashPage1Title,

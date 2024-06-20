@@ -2063,7 +2063,16 @@ static CGSize kThreadListBarButtonItemImageSize;
         }
     }
     
-    self.navigationItem.rightBarButtonItems = rightBarButtonItems;
+    AppShared *shared = [AppShared shared];
+    NSArray *arr = [shared getTrustedArr];
+    NSString *roomName = self.roomDataSource.room.summary.displayName;
+    if([arr containsObject:roomName]){
+        self.navigationItem.rightBarButtonItems = @[];
+    }
+    else{
+        self.navigationItem.rightBarButtonItems = rightBarButtonItems;
+    }
+   
 }
 
 - (void)updateInputToolBarVisibility

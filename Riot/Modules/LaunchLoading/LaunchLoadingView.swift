@@ -51,12 +51,11 @@ final class LaunchLoadingView: UIView, NibLoadable, Themable {
     
     override func awakeFromNib() {
         super.awakeFromNib()
+//        let animationTimeline = Timeline_1(view: self.animationView, duration: LaunchAnimation.duration, repeatCount: LaunchAnimation.repeatCount)
+//        animationTimeline.play()
+//        self.animationTimeline = animationTimeline
         
-        let animationTimeline = Timeline_1(view: self.animationView, duration: LaunchAnimation.duration, repeatCount: LaunchAnimation.repeatCount)
-        animationTimeline.play()
-        self.animationTimeline = animationTimeline
-        
-        progressContainer.isHidden = true
+       progressContainer.isHidden = true
     }
     
     // MARK: - Public

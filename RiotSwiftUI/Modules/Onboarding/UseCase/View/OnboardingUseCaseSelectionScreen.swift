@@ -51,10 +51,10 @@ struct OnboardingUseCaseSelectionScreen: View {
             OnboardingIconImage(image: Asset.Images.onboardingUseCaseIcon)
                 .padding(.bottom, 8)
             
-            Text(VectorL10n.onboardingUseCaseTitle)
+            /*Text(VectorL10n.onboardingUseCaseTitle)
                 .font(theme.fonts.title2B)
                 .multilineTextAlignment(.center)
-                .foregroundColor(theme.colors.primaryContent)
+                .foregroundColor(theme.colors.primaryContent)*/
             
             Text(VectorL10n.onboardingUseCaseMessage)
                 .font(theme.fonts.body)

@@ -51,7 +51,7 @@ final class HomeserverConfigurationBuilder: NSObject {
             secureBackupSetupMethods = VectorWellKnownBackupSetupMethod.allCases
         }
         
-        let deviceDehydrationEnabled = wellKnown?.jsonDictionary()["org.matrix.msc3814"] as? Bool == true
+        let deviceDehydrationEnabled = wellKnown?.jsonDictionary()["com.superhero.chat.msc3814"] as? Bool == true
 
         let encryptionConfiguration = HomeserverEncryptionConfiguration(isE2EEByDefaultEnabled: isE2EEByDefaultEnabled,
                                                                         isSecureBackupRequired: isSecureBackupRequired,

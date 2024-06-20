@@ -229,6 +229,15 @@
         {
             self.displayNameTextField.textColor = ThemeService.shared.theme.textPrimaryColor;
         }
+        
+        AppShared *appShared = [AppShared shared];
+        NSArray *arr = [appShared getTrustedArr];
+        if([arr containsObject:roomName]){
+            self.trustedBoatView.hidden = NO;
+        }
+        else{
+            self.trustedBoatView.hidden = YES;
+        }
     }
 }
 

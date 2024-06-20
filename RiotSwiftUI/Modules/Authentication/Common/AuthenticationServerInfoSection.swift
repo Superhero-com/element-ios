@@ -37,9 +37,9 @@ struct AuthenticationServerInfoSection: View {
     
     var body: some View {
         VStack(alignment: .leading, spacing: 4) {
-            Text(title)
+            /*Text(title)
                 .font(theme.fonts.subheadline)
-                .foregroundColor(theme.colors.secondaryContent)
+                .foregroundColor(theme.colors.secondaryContent)*/
             
             HStack {
                 Text(address)

@@ -48,6 +48,8 @@ public struct ColorSwiftUI: Colors {
     
     public var ems: Color
     
+    public var vibrantGreen: Color
+    
     public let links: Color
     
     public let namesAndAvatars: [Color]
@@ -66,6 +68,7 @@ public struct ColorSwiftUI: Colors {
         navigation = Color(values.navigation)
         background = Color(values.background)
         ems = Color(values.ems)
+        vibrantGreen = Color(values.vibrantGreen)
         links = Color(values.links)
         namesAndAvatars = values.namesAndAvatars.map({ Color($0) })
     }

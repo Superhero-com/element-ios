@@ -50,7 +50,8 @@ struct CompletionSuggestionList: View {
         if viewModel.viewState.items.isEmpty {
             EmptyView()
         } else {
-            ZStack {
+            EmptyView()
+            /*ZStack {
                 CompletionSuggestionListItem(content: CompletionSuggestionViewStateItem.user(id: "Prototype", avatar: AvatarInput(mxContentUri: "", matrixItemId: "", displayName: "Prototype"), displayName: "Prototype"))
                     .background(ViewFrameReader(frame: $prototypeListItemFrame))
                     .hidden()
@@ -61,7 +62,7 @@ struct CompletionSuggestionList: View {
                 } else {
                     list()
                 }
-            }
+            }*/
         }
     }
     

@@ -13,12 +13,25 @@ public class ElementView: UIView {
         public static let backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 0.021)
     }
 
-    public var icon: UIView!
+    public var icon: UIImageView!
     public var _10242x: UIView!
     public var path: ShapeView!
     public var path_1: ShapeView!
     public var path_2: ShapeView!
     public var path_3: ShapeView!
+    
+    
+    var loading_1: UIImage!
+    var loading_2: UIImage!
+    var loading_3: UIImage!
+    var loading_4: UIImage!
+    
+    var images: [UIImage]!
+    
+    var animatedImage: UIImage!
+    
+    var imageView: UIImageView!
+
 
     public override var intrinsicContentSize: CGSize {
         return Defaults.size
@@ -37,9 +50,27 @@ public class ElementView: UIView {
     private func setup() {
         backgroundColor = Defaults.backgroundColor
         clipsToBounds = false
-        createViews()
-        addSubviews()
+        configImages()
+       // addSubviews()
+//        createViews()
+//        addSubviews()
         //scale(to: frame.size)
+    }
+    
+    func configImages(){
+        loading_1 = UIImage(named: "loading1")
+        loading_2 = UIImage(named: "loading2")
+        loading_3 = UIImage(named: "loading3")
+        loading_4 = UIImage(named: "loading4")
+        
+        images = [loading_1, loading_2, loading_3, loading_4]
+        
+        animatedImage = UIImage.animatedImage(with: images, duration:1)
+        
+        imageView = UIImageView(image: animatedImage)
+        
+        addSubview(imageView)
+
     }
 
     /// Scales `self` and its subviews to `size`.
@@ -62,16 +93,16 @@ public class ElementView: UIView {
     private func createViews() {
         CATransaction.suppressAnimations {
             createIcon()
-            create_10242x()
-            createPath()
-            createPath1()
-            createPath2()
-            createPath3()
+//            create_10242x()
+//            createPath()
+//            createPath1()
+//            createPath2()
+//            createPath3()
         }
     }
 
     private func createIcon() {
-        icon = UIView(frame: CGRect(x: 65.21, y: 63.27, width: 120.77, height: 120.77))
+        icon = UIImageView(frame: CGRect(x: 65.21, y: 63.27, width: 120.77, height: 120.77))
         icon.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 0)
         icon.layer.shadowOffset = CGSize(width: 0, height: 0)
         icon.layer.shadowColor = UIColor.clear.cgColor
@@ -79,6 +110,8 @@ public class ElementView: UIView {
         icon.layer.position = CGPoint(x: 65.21, y: 63.27)
         icon.layer.bounds = CGRect(x: 0, y: 0, width: 120.77, height: 120.77)
         icon.layer.masksToBounds = false
+        icon.image = animatedImage
+
     }
 
     private func create_10242x() {
@@ -102,7 +135,7 @@ public class ElementView: UIView {
         path.layer.bounds = CGRect(x: 0, y: 0, width: 55.2, height: 55.2)
         path.layer.masksToBounds = false
         path.shapeLayer.fillRule = CAShapeLayerFillRule.evenOdd
-        path.shapeLayer.fillColor = UIColor(rgb: 0x0DBD8B).cgColor
+        path.shapeLayer.fillColor = UIColor(rgb: 0x6147FF).cgColor
         path.shapeLayer.lineDashPattern = []
         path.shapeLayer.lineDashPhase = 0
         path.shapeLayer.lineWidth = 0
@@ -120,7 +153,7 @@ public class ElementView: UIView {
         path_1.layer.bounds = CGRect(x: 0, y: 0, width: 55.2, height: 55.2)
         path_1.layer.masksToBounds = false
         path_1.shapeLayer.fillRule = CAShapeLayerFillRule.evenOdd
-        path_1.shapeLayer.fillColor = UIColor(rgb: 0x0DBD8B).cgColor
+        path_1.shapeLayer.fillColor = UIColor(rgb: 0x6147FF).cgColor
         path_1.shapeLayer.lineDashPattern = []
         path_1.shapeLayer.lineDashPhase = 0
         path_1.shapeLayer.lineWidth = 0
@@ -138,7 +171,7 @@ public class ElementView: UIView {
         path_2.layer.bounds = CGRect(x: 0, y: 0, width: 55.2, height: 55.2)
         path_2.layer.masksToBounds = false
         path_2.shapeLayer.fillRule = CAShapeLayerFillRule.evenOdd
-        path_2.shapeLayer.fillColor = UIColor(rgb: 0x0DBD8B).cgColor
+        path_2.shapeLayer.fillColor = UIColor(rgb: 0x6147FF).cgColor
         path_2.shapeLayer.lineDashPattern = []
         path_2.shapeLayer.lineDashPhase = 0
         path_2.shapeLayer.lineWidth = 0
@@ -156,7 +189,7 @@ public class ElementView: UIView {
         path_3.layer.bounds = CGRect(x: 0, y: 0, width: 55.2, height: 55.2)
         path_3.layer.masksToBounds = false
         path_3.shapeLayer.fillRule = CAShapeLayerFillRule.evenOdd
-        path_3.shapeLayer.fillColor = UIColor(rgb: 0x0DBD8B).cgColor
+        path_3.shapeLayer.fillColor = UIColor(rgb: 0x6147FF).cgColor
         path_3.shapeLayer.lineDashPattern = []
         path_3.shapeLayer.lineDashPhase = 0
         path_3.shapeLayer.lineWidth = 0
@@ -165,11 +198,12 @@ public class ElementView: UIView {
     }
 
     private func addSubviews() {
-        _10242x.addSubview(path)
-        _10242x.addSubview(path_1)
-        _10242x.addSubview(path_2)
-        _10242x.addSubview(path_3)
-        icon.addSubview(_10242x)
+//        _10242x.addSubview(path)
+//        _10242x.addSubview(path_1)
+//        _10242x.addSubview(path_2)
+//        _10242x.addSubview(path_3)
+//        icon.addSubview(_10242x)
+        
         addSubview(icon)
     }
 }
